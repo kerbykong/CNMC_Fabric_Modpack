@@ -1,0 +1,13 @@
+name = "Just Zoom"
+filename = "justzoom_fabric_2.1.0_MC_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "538a90dd2eced7704a900d53b9cbc5cf5cea6b64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6290217
+project-id = 561885

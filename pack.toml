@@ -1,0 +1,13 @@
+name = "CNMC Countries and Nations"
+author = "VintageHotel"
+version = "5.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2127a9bee8eb450fec2248773c5e8176e3f26f64bb2fdb863744083dd05f03f"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.20.1"
