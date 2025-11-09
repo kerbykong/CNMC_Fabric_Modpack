@@ -89,6 +89,11 @@ hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "d7255889c832072601ab0a3878f5cbeb056d3bc903146074e22c5850433ee747"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e5739bf8e8668a5d94ae545f7ddabcffcdfec64b0e72d7d2d88d8f64f480977e"
 metafile = true
