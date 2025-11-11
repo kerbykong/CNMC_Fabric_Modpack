@@ -1,0 +1,13 @@
+name = "Create: Crystal Clear"
+filename = "Crystal-Clear-2.1-Beta-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "717090cba0fa31259ddba530b9c636149c83ef4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5402290
+project-id = 669724

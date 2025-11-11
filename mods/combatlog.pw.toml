@@ -1,0 +1,13 @@
+name = "Combatlog"
+filename = "combatlog-2.5+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31c53e3f8760c0e01a9860e50715ba3197f01d25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6812301
+project-id = 665758
