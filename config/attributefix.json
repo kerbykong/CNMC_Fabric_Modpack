@@ -55,6 +55,17 @@
         "value": 1024
       }
     },
+    "forge:nametag_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "minecraft:generic.movement_speed": {
       "enabled": true,
       "min": {

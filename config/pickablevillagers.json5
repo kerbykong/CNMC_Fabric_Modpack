@@ -1,0 +1,12 @@
+{
+	"SneakRightClick": true,
+	"KeyShortcut": true,
+	"InventoryTrade": true,
+	"OnlyAdults": true,
+	"PickupCostMultiplier": 2,
+	// Use Open Parties and Claims Chunk claim protection.
+	"UseOPACClaimProtection": false,
+	// Enable / Disable trader block.
+	"TraderBlock": true,
+	"RefreshTrades": true
+}

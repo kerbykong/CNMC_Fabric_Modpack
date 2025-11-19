@@ -1,0 +1,13 @@
+name = "Pickable Villagers [Fabric]"
+filename = "PickableVillagers-fabric-2.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7d0a8e74ab5346932aa3152ec89e3943909a32d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7225860
+project-id = 636067

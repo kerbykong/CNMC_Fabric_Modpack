@@ -1,0 +1,13 @@
+name = "Colorful Azaleas (Depricated Please go to main page)"
+filename = "ColorfulAzaleas-2.2.1 (1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13f01b005681947d93b5bb87b4d01ac7bd25d9c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5696419
+project-id = 1097739
