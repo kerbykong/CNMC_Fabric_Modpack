@@ -1,12 +1,10 @@
-name = "CNMC Countries and Nations"
-author = "VintageHotel"
-version = "5.0.0"
+name = "CNMC Geopol Fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1158572fe5e289075c1b829560b2f62fafa27122591f5204324b9a608dd01b00"
+hash = "2dab25fe94b392972c72dc9083fc30ab94066220e4d476b36a06bbbb9c3a58cc"
 
 [versions]
 fabric = "0.17.3"
