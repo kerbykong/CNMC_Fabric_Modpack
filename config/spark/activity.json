@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "VintageHotel",
+      "uniqueId": "dd0b831b-82c3-474b-b51b-589c236ee18d"
+    },
+    "time": 1763538231006,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Dee8MiTsnB"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+name = "Cerulean"
+filename = "cerulean-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a20c6c65a6baea552b1a667c2d2b08074eed179"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6489712
+project-id = 1204890

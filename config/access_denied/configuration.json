@@ -1,0 +1,25 @@
+{
+  "disabledDimensions": [
+    "minecraft:the_end"
+  ],
+  "pushBackPlayer": false,
+  "accessDeniedMessage": "Access Denied!",
+  "requirementsMessageBuilder": [
+    "You need to:",
+    "Break another %missingBlocksBroken% blocks",
+    "Place another %missingBlocksPlaced% blocks",
+    "Get another %missingXpLevels% experience levels",
+    "Kill another %missingPlayerKills% players",
+    "Kill another %missingMobKills% mobs",
+    "Play for another %missingPlayTime% seconds",
+    "Have the items %missingItems%",
+    "Have the effects %missingEffects%",
+    "Have another %missingHealth% hearts",
+    "Die another %missingDeaths% times",
+    "Try again! You have a %chance% chance",
+    "Complete the advancements %missingAdvancements%",
+    "Jump another %missingJumps% times",
+    "Fish another %missingFishingCount% times",
+    "to enter this dimension."
+  ]
+}

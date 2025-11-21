@@ -1,0 +1,13 @@
+name = "Lenient Death"
+filename = "lenientdeath-1.2.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe811e4cb08180de5398d59b7ca43bcf0453406d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5619921
+project-id = 506536

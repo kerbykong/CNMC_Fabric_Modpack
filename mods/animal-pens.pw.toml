@@ -1,0 +1,13 @@
+name = "Animal Pens"
+filename = "animal_pen-fabric-1.20-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43cb7127786950360fd0aadd8feb3a02b411bbdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7077731
+project-id = 1206722
