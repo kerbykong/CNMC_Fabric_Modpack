@@ -17,6 +17,7 @@
 	skip_empty_armor_points = true
 	#Use vanilla's icons on all front rows, use custom colored icons on the background row.
 	inverse_coloring = false
+
 [health]
 	#Show colorful icons on the front row, not just on all subsequent rows.
 	colorize_first_row = false
@@ -26,6 +27,7 @@
 	allow_count = true
 	#Use vanilla's icons on all front rows, use custom colored icons on the background row.
 	inverse_coloring = false
+
 [armor]
 	#Show colorful icons on the front row, not just on all subsequent rows.
 	colorize_first_row = false
@@ -37,6 +39,7 @@
 	allow_count = true
 	#Use vanilla's icons on all front rows, use custom colored icons on the background row.
 	inverse_coloring = false
+
 [row_count]
 	#Color of row count, use any chat formatting color value.
 	#Allowed Values: BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
@@ -49,6 +52,7 @@
 	always_render_row_count = false
 	#Render an 'x' together with the row count number.
 	row_count_x = true
+
 [general]
 	#Move chat messages above armor/absorption bar.
 	move_chat_above_armor = true

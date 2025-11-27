@@ -49,6 +49,7 @@ disableMigration = false
 	copycat_flat_pane = true
 	copycat_slab = true
 	copycat_folding_door = true
+
 #.
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
 [feature_categories]

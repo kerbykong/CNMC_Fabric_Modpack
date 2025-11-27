@@ -7,6 +7,7 @@
 	#These packets help animations to be more accurate when tps is below 20.
 	#Range: > 5
 	tickrateSyncTimer = 20
+
 #.
 #Packmakers' control panel for internal recipe compat
 [recipes]
@@ -58,6 +59,7 @@
 	#.
 	#Allow the standard in-world Shadow Steel recipe.
 	enableShadowSteelRecipe = true
+
 #.
 #Parameters and abilities of Create's kinetic mechanisms
 [kinetics]
@@ -131,6 +133,7 @@
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
 		fanProcessingTime = 150
+
 	#.
 	#Moving Contraptions
 	[kinetics.contraptions]
@@ -203,6 +206,7 @@
 		#Whether stabilised bearings create a separated entity even on non-rotating contraptions.
 		#[Technical]
 		stabiliseStableContraptions = false
+
 	#.
 	#Configure speed/capacity levels for requirements and indicators.
 	[kinetics.stats]
@@ -236,10 +240,11 @@
 		#Minimum added Capacity by sources to be considered 'high'
 		#Range: 0.0 ~ 65535.0
 		highCapacity = 1024.0
-	[kinetics.stressValues]
+
 		#.
 		#Fine tune the kinetic stats of individual components
 		[kinetics.stressValues.v2]
+
 			#.
 			#.
 			#[in Stress Units]
@@ -291,6 +296,7 @@
 				belt = 0.0
 				brass_encased_cogwheel = 0.0
 				hose_pulley = 4.0
+
 			#.
 			#[in Stress Units]
 			#Configure how much stress a source can accommodate for.
@@ -302,6 +308,7 @@
 				large_water_wheel = 128.0
 				water_wheel = 32.0
 				windmill_bearing = 512.0
+
 #.
 #Create's liquid manipulation tools
 [fluids]
@@ -345,6 +352,7 @@
 	#.
 	#Whether open-ended pipes should be allowed to place fluid sources.
 	pipesPlaceFluidSourceBlocks = true
+
 #.
 #Tweaks for logistical components
 [logistics]
@@ -380,6 +388,7 @@
 	#.
 	#Whether hostile mobs walking near a seat will start riding it.
 	seatHostileMobs = true
+
 #.
 #Everything related to Schematic tools
 [schematics]
@@ -417,6 +426,7 @@
 		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
 		#Range: > 1
 		schematicannonShotsPerGunpowder = 400
+
 #.
 #Equipment and gadgets added by Create
 [equipment]
@@ -452,6 +462,7 @@
 	#.
 	#Weather Potato Cannon shots can modify the world or not. This includes placing blocks and changing entities.
 	potatoCannonWorldModification = true
+
 #.
 #Create's builtin Railway systems
 [trains]
@@ -494,6 +505,7 @@
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
 		trainAcceleration = 3.0
+
 	#.
 	#Powered Trains
 	[trains.poweredTrainStats]

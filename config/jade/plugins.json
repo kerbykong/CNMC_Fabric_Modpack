@@ -1,4 +1,7 @@
 {
+  "enderchests": {
+    "hud": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -55,6 +58,11 @@
     "lightroom": true,
     "photograph_frame": true
   },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -65,6 +73,11 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "beautify": {
+    "lamp_jar.glowstone_dust": true,
+    "trellis.pot_plant": true,
+    "hanging_pot.pot_flower": true
   },
   "waystones": {
     "waystone": true

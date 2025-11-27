@@ -1,5 +1,9 @@
 {
   "balm:jade": null,
+  "beautify:hanging_pot.pot_flower": null,
+  "beautify:lamp_jar.glowstone_dust": null,
+  "beautify:trellis.pot_plant": null,
+  "enderchests:hud": null,
   "exposure:lightroom": null,
   "exposure:photograph_frame": null,
   "jade:block_face": null,
@@ -48,6 +52,7 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "shetiphiancore:hud": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null,

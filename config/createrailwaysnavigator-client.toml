@@ -26,6 +26,7 @@
 		#This value indicates how accurately the real-time data should be displayed. By default, only deviations above 10 in-game minutes (167 ticks, approx. 8 real life seconds) are displayed. The lower the value, the more accurate the real-time data but also the more often deviations from the schedule occur. (Default: 167, 10 in-game minutes)
 		#Range: 1 ~ 1000
 		realtime_precision_threshold = 167
+
 	["Create Railways Navigator Config".route_overlay]
 		#Scale of the route overlay UI. (Default: 0.75)
 		#Range: 0.25 ~ 2.0
