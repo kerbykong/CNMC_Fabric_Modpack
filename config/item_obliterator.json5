@@ -16,7 +16,23 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+	"pointblank:javelin",
+	"pointblank:javelin_rocket",
+	"pointblank:m870modshotgun",
+	"pointblank:ulg99cannon",
+	"pointblank:workstation",
+	"pointblank:processor",
+	"pointblank:at4_rocket",
+	"pointblank:smaw_rocket",
+	"pointblank:m203launcher",
+	"pointblank:gp25",
+	"pointblank:fn40",
+	"pointblank:m16a3kit",
+	"pointblank:star15mod3receiver",
+	"pointblank:m4sopmodii_bartender",
+	"pointblank:m4a1_asiimov",
+	"pointblank:l96a1_hyperbeast",
+	"pointblank:grenade20mm"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -51,5 +67,5 @@
   //  
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  "use_hashmap_optimizations": false
+  "use_hashmap_optimizations": true
 }

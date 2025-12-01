@@ -84,10 +84,10 @@
     "modId": "automobility",
     "version": "0.4.2+1.20.1-fabric"
   },
-  "BadOptimizations-2.3.1-1.20.1.jar": {
-    "jarName": "BadOptimizations-2.3.1-1.20.1.jar",
+  "BadOptimizations-2.4.0-1.20.1.jar": {
+    "jarName": "BadOptimizations-2.4.0-1.20.1.jar",
     "modId": "badoptimizations",
-    "version": "2.3.1"
+    "version": "2.4.0"
   },
   "balm-fabric-1.20.1-7.3.37.jar": {
     "jarName": "balm-fabric-1.20.1-7.3.37.jar",
@@ -189,10 +189,10 @@
     "modId": "clientcrafting",
     "version": "1.20.1-1.8"
   },
-  "clientsort-fabric-2.1.3+1.20.1.jar": {
-    "jarName": "clientsort-fabric-2.1.3+1.20.1.jar",
+  "clientsort-fabric-2.1.4+1.20.1.jar": {
+    "jarName": "clientsort-fabric-2.1.4+1.20.1.jar",
     "modId": "clientsort",
-    "version": "2.1.3+1.20.1"
+    "version": "2.1.4+1.20.1"
   },
   "cloth-config-11.1.136-fabric.jar": {
     "jarName": "cloth-config-11.1.136-fabric.jar",
@@ -218,6 +218,11 @@
     "jarName": "combatlog-2.5+1.20.jar",
     "modId": "combatlog",
     "version": "2.5"
+  },
+  "connectiblechains-2.5.5+1.20.1.jar": {
+    "jarName": "connectiblechains-2.5.5+1.20.1.jar",
+    "modId": "connectiblechains",
+    "version": "2.5.5+1.20.1"
   },
   "connectivity-fabric-1.20.1-7.2.jar": {
     "jarName": "connectivity-fabric-1.20.1-7.2.jar",
@@ -253,6 +258,11 @@
     "jarName": "create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
     "modId": "create",
     "version": "0.5.1-j-build.1631+mc1.20.1"
+  },
+  "create_netherless-1.0.1.jar": {
+    "jarName": "create_netherless-1.0.1.jar",
+    "modId": "create_netherless",
+    "version": "1.0.1"
   },
   "create_oxidized-0.1.1+1.20.1.jar": {
     "jarName": "create_oxidized-0.1.1+1.20.1.jar",
@@ -333,6 +343,11 @@
     "jarName": "doubledoors-1.20.1-7.2.jar",
     "modId": "doubledoors",
     "version": "7.2"
+  },
+  "drippyloadingscreen_fabric_3.1.0_MC_1.20.1.jar": {
+    "jarName": "drippyloadingscreen_fabric_3.1.0_MC_1.20.1.jar",
+    "modId": "drippyloadingscreen",
+    "version": "3.1.0"
   },
   "dummmmmmy-1.20-2.0.8-fabric.jar": {
     "jarName": "dummmmmmy-1.20-2.0.8-fabric.jar",
@@ -569,10 +584,10 @@
     "modId": "item_obliterator",
     "version": "2.3.0"
   },
-  "Ixeris-3.7.0+1.20.1-fabric.jar": {
-    "jarName": "Ixeris-3.7.0+1.20.1-fabric.jar",
+  "Ixeris-3.8.0+1.20.1-fabric.jar": {
+    "jarName": "Ixeris-3.8.0+1.20.1-fabric.jar",
     "modId": "ixeris",
-    "version": "3.7.0+1.20.1-fabric"
+    "version": "3.8.0+1.20.1-fabric"
   },
   "Jade-1.20-Fabric-11.13.1.jar": {
     "jarName": "Jade-1.20-Fabric-11.13.1.jar",
@@ -583,6 +598,11 @@
     "jarName": "jamlib-fabric-1.3.5+1.20.1.jar",
     "modId": "jamlib",
     "version": "1.3.5+1.20.1"
+  },
+  "justplayerheads-1.20.1-4.2.jar": {
+    "jarName": "justplayerheads-1.20.1-4.2.jar",
+    "modId": "justplayerheads",
+    "version": "4.2"
   },
   "justzoom_fabric_2.1.0_MC_1.20.1.jar": {
     "jarName": "justzoom_fabric_2.1.0_MC_1.20.1.jar",
@@ -624,10 +644,15 @@
     "modId": "letmedespawn",
     "version": "1.5.0"
   },
-  "lithium-fabric-mc1.20.1-0.11.3.jar": {
-    "jarName": "lithium-fabric-mc1.20.1-0.11.3.jar",
+  "linkedstorage-1.5.2-1.20.jar": {
+    "jarName": "linkedstorage-1.5.2-1.20.jar",
+    "modId": "linkedstorage",
+    "version": "1.5.2-1.19.3"
+  },
+  "lithium-fabric-mc1.20.1-0.11.4.jar": {
+    "jarName": "lithium-fabric-mc1.20.1-0.11.4.jar",
     "modId": "lithium",
-    "version": "0.11.3"
+    "version": "0.11.4"
   },
   "lmft-1.1.1+1.21.9-fabric.jar": {
     "jarName": "lmft-1.1.1+1.21.9-fabric.jar",
@@ -913,6 +938,11 @@
     "jarName": "ShowMeWhatYouGot-1.20-1.1.1.jar",
     "modId": "smwyg",
     "version": "1.1.1"
+  },
+  "skys_overworld_netherite-fabric-3.0-1.20.1.jar": {
+    "jarName": "skys_overworld_netherite-fabric-3.0-1.20.1.jar",
+    "modId": "skys_overworld_netherite",
+    "version": "3.0"
   },
   "sliceanddice-fabric-3.3.1.jar": {
     "jarName": "sliceanddice-fabric-3.3.1.jar",

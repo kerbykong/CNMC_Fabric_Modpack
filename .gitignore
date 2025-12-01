@@ -1,5 +1,6 @@
 # Exclude exported CurseForge zip files
 *.zip
+config/worldedit/
 
 # Exclude exported Modrinth modpacks
 *.mrpack

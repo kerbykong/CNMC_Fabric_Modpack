@@ -1,0 +1,13 @@
+name = "Sky's Overworld Netherite"
+filename = "skys_overworld_netherite-fabric-3.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c33ec5bc0a18581deab7e4a3ab1520eece63e07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7196660
+project-id = 625133
