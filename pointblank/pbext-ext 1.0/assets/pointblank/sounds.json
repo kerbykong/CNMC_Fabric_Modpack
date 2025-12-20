@@ -1,0 +1,122 @@
+{
+    "pbext_switch": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_switch",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_akm74s": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_akm74s",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_aks74u": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_aks74u",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_malyuk": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_malyuk",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_asval": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_asval",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_akm": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_akm",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_pkm": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_pkm",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_pkp": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_pkp",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_pkmsilenced": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_pkmsilenced",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2_silenced": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2_silenced",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2_leveropen": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2_leveropen",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2_leverclose": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2_leverclose",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2_insert": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2_insert",
+                "stream": false
+            }
+        ]
+    },
+    "pbext_mk2_chamberinsert": {
+        "sounds": [
+            {
+                "name": "pointblank:pbext_mk2_chamberinsert",
+                "stream": false
+            }
+        ]
+    }
+}

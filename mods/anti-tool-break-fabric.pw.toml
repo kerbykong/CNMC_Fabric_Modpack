@@ -1,0 +1,13 @@
+name = "Anti Tool Break (Fabric)"
+filename = "antitoolbreak-1.0.0+mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cc177e74fdb6afdc2f5ccbfdec071e0756263a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4601259
+project-id = 549133

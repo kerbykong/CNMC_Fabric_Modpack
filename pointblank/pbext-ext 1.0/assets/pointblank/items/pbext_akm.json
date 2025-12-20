@@ -1,0 +1,278 @@
+{
+  "name": "pbext_akm",
+  "type": "Gun",
+  "maxAmmoCapacity": 30,
+  "compatibleAmmo": [
+    "ammocreative",
+    "ammo762"
+  ],
+  "damage": 7,
+  "fireSound": "pbext_akm",
+  "fireModes": [
+    "SINGLE"
+  ],
+  "rpm": 600,
+  "drawCooldownDuration": 820,
+  "gunRecoilInitialAmplitude": 0.6,
+  "shakeRecoilAmplitude": 0.35,
+  "shakeRecoilSpeed": 2,
+  "viewRecoilAmplitude": 1.8,
+  "compatibleAttachmentGroups": [
+    "ar_muzzle",
+    "cantedrail",
+    "ar_sightsandscopes",
+    "underbarrel"
+  ],
+  "compatibleAttachments": [
+    "cantedrail",
+    "gp25"
+  ],
+  "features": [
+    {
+      "type": "MuzzleFlash",
+      "effects": [
+        {
+          "phase": "firing",
+          "name": "muzzle_flash_big"
+        }
+      ],
+      "condition": {
+        "allOf": [
+          {
+            "isUsingDefaultMuzzle": true
+          },
+          {
+            "doesNotHaveAttachmentGroup": "ar_suppressors"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Sound",
+      "fireSounds": [
+        {
+          "sound": "ak47_silenced",
+          "volume": 1,
+          "condition": {
+            "allOf": [
+              {
+                "unselectedFireMode": "grenade"
+              },
+              {
+                "hasAttachmentGroup": "ar_suppressors"
+              }
+            ]
+          }
+        },
+        {
+          "sound": "mgl_shoot",
+          "volume": 6,
+          "condition": {
+            "selectedFireMode": "grenade"
+          }
+        }
+      ]
+    },
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "railedcover",
+          "visible": true,
+          "condition": {
+            "hasAttachmentGroup": "m16_sightsandscopes"
+          }
+        },
+        {
+          "name": "akmdustcover",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "m16_sightsandscopes"
+          }
+        },
+        {
+          "name": "railed_guard",
+          "visible": true,
+          "condition": {
+            "hasAttachmentGroup": "underbarrel"
+          }
+        },
+        {
+          "name": "ak_guard",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "underbarrel"
+          }
+        },
+        {
+          "name": "launcher",
+          "visible": true,
+          "condition": {
+            "hasAttachment": "gp25"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Aiming",
+      "zoom": 0.25,
+      "condition": {
+        "doesNotHaveAttachmentGroup": "ar_sightsandscopes"
+      }
+    },
+    {
+      "type": "FireMode",
+      "fireModes": [
+        {
+          "name": "automatic",
+          "displayName": "label.pointblank.fireMode.automatic",
+          "type": "AUTOMATIC",
+          "rpm": 650,
+          "damage": 7,
+          "animationName": "animation.model.fire",
+          "shakeRecoilAmplitude": 0.35,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "enableFireModeAnimations": [
+            {
+              "name": "animation.model.switch",
+              "duration": 570
+            }
+          ]
+        },
+        {
+          "name": "single",
+          "displayName": "label.pointblank.fireMode.single",
+          "type": "SINGLE",
+          "rpm": 650,
+          "damage": 7,
+          "animationName": "animation.model.fire",
+          "shakeRecoilAmplitude": 0.35,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "enableFireModeAnimations": [
+            {
+              "name": "animation.model.switch",
+              "duration": 570
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex > 1",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      },
+      "duration": 2330,
+      "animation": "animation.model.reload"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex == 1",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      },
+      "duration": 2150,
+      "animation": "animation.model.reloadoneleft"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex == 0",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      },
+      "duration": 3430,
+      "animation": "animation.model.reloadempty"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex == 0",
+          {
+            "selectedFireMode": "grenade_launcher"
+          }
+        ]
+      },
+      "duration": 1720,
+      "animation": "animation.model.launcherreload"
+    }
+  ],
+  "effects": [
+    {
+      "phase": "hit_scan_acquired",
+      "name": "tracer"
+    }
+  ],
+  "fireAnimations": [
+    {
+      "name": "animation.model.fire",
+      "condition": "random"
+    },
+    {
+      "name": "animation.model.fire2",
+      "condition": "random"
+    }
+  ],
+  "inspectAnimations": [
+    {
+      "name": "animation.model.inspect",
+      "duration": 6420,
+      "condition": {
+        "allOf": [
+          "ammoCount > 1",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      }
+    },
+    {
+      "name": "animation.model.inspectoneleft",
+      "duration": 6420,
+      "condition": {
+        "allOf": [
+          "ammoCount == 1",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      }
+    },
+    {
+      "name": "animation.model.inspectempty",
+      "duration": 6420,
+      "condition": {
+        "allOf": [
+          "ammoCount == 0",
+          {
+            "unselectedFireMode": "grenade_launcher"
+          }
+        ]
+      }
+    },
+    {
+      "name": "animation.model.inspectgrenade",
+      "duration": 3870,
+      "condition": {
+            "selectedFireMode": "grenade_launcher"
+      }
+    }
+  ]
+}

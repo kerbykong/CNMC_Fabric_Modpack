@@ -1,0 +1,154 @@
+{
+    "ggo_switch": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_switch",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate_boltback": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate_boltback",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate_boltback2": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate_boltback2",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate_boltforward": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate_boltforward",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate_magin": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate_magin",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_hecate_magout": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_hecate_magout",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_kagemitsu_draw": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_kagemitsu_draw",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_kagemitsu_swing": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_kagemitsu_swing",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_kagemitsu_idle": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_kagemitsu_idle",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_fiveseven": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_fiveseven",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_fivesevensilenced": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_fivesevensilenced",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2silenced": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2silenced",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2back": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2back",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2forward": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2forward",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2magin": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2magin",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2magout": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2magout",
+                "stream": false
+            }
+        ]
+    },
+    "ggo_sirius2stock": {
+        "sounds": [
+            {
+                "name": "pointblank:ggo_sirius2stock",
+                "stream": false
+            }
+        ]
+    }
+}

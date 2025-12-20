@@ -1,0 +1,13 @@
+{
+  "name": "ggo_pistolrail",
+  "type": "Attachment",
+  "category": "scope",
+  "groups": [
+    "hg_sights"
+  ],
+  "compatibleAttachmentGroups": [
+    "ar_sightsandscopes"
+  ],
+  "features": [
+  ]
+}

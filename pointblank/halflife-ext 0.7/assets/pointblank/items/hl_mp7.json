@@ -1,0 +1,165 @@
+{
+  "name": "hl_mp7",
+  "type": "Gun",
+  "maxAmmoCapacity": 40,
+  "compatibleAmmo": [
+    "ammocreative",
+    "ammo57"
+  ],
+  "damage": 4,
+  "fireSound": "hl_mp7",
+  "fireModes": [
+    "SINGLE"
+  ],
+  "rpm": 950,
+  "drawCooldownDuration": 480,
+  "gunRecoilInitialAmplitude": 0.8,
+  "shakeRecoilAmplitude": 0.35,
+  "shakeRecoilSpeed": 2,
+  "viewRecoilAmplitude": 1.2,
+  "glowingParts": [
+    {
+      "name": "glowy"
+    }
+  ],
+  "compatibleAttachmentGroups": [
+    "smg_muzzle",
+    "cantedrail",
+    "ar_sightsandscopes"
+  ],
+  "compatibleAttachments": [
+    "cantedrail"
+  ],
+  "defaultAttachments": [
+    "hl_omegasight"
+  ],
+  "features": [
+    {
+      "type": "MuzzleFlash",
+      "effects": [
+        {
+          "phase": "firing",
+          "name": "muzzle_flash"
+        }
+      ],
+      "condition": {
+        "allOf": [
+          {
+            "isUsingDefaultMuzzle": true
+          },
+          {
+            "doesNotHaveAttachmentGroup": "smg_suppressors"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Sound",
+      "fireSounds": [
+        {
+          "sound": "mp7a2devgru",
+          "volume": 1,
+          "condition": {
+            "allOf": [
+              {
+                "hasAttachmentGroup": "smg_suppressors"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "sights",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "m16_sightsandscopes"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Aiming",
+      "zoom": 0.25,
+      "condition": {
+        "doesNotHaveAttachmentGroup": "ar_sightsandscopes"
+      }
+    },
+    {
+      "type": "FireMode",
+      "fireModes": [
+        {
+          "name": "automatic",
+          "displayName": "label.pointblank.fireMode.automatic",
+          "type": "AUTOMATIC",
+          "rpm": 950,
+          "damage": 4.0,
+          "animationName": "animation.model.fire",
+          "shakeRecoilAmplitude": 0.35,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "enableFireModeAnimations": [
+            {
+              "name": "animation.model.switch",
+              "duration": 470
+            }
+          ]
+        },
+        {
+          "name": "single",
+          "displayName": "label.pointblank.fireMode.single",
+          "type": "SINGLE",
+          "rpm": 950,
+          "damage": 4.0,
+          "animationName": "animation.model.fire",
+          "shakeRecoilAmplitude": 0.35,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "enableFireModeAnimations": [
+            {
+              "name": "animation.model.switch",
+              "duration": 470
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex > 0"
+        ]
+      },
+      "duration": 1800,
+      "animation": "animation.model.reload"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": {
+        "allOf": [
+          "reloadIterationIndex == 0"
+        ]
+      },
+      "duration": 2080,
+      "animation": "animation.model.reloadempty"
+    }
+  ],
+  "inspectAnimations": [
+    {
+      "name": "animation.model.inspect",
+      "duration": 5550,
+      "condition": "ammoCount > 0"
+    },
+    {
+      "name": "animation.model.inspectempty",
+      "duration": 5550,
+      "condition": "ammoCount == 0"
+    }
+  ]
+}

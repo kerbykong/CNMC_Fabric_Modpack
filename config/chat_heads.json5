@@ -5,5 +5,8 @@
 	"smartHeuristics": true,
 	"handleSystemMessages": true,
 	"drawShadow": true,
-	"nameAliases": { }
+	"nameAliases": {
+		"<CMR47>": "it?",
+		"<VintageHotel>": "fast"
+	}
 }

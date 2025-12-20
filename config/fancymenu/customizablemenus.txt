@@ -6,3 +6,6 @@ net.minecraft.class_442 {
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+

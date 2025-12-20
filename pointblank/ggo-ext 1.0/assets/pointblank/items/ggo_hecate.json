@@ -1,0 +1,125 @@
+{
+  "name": "ggo_hecate",
+  "type": "Gun",
+  "maxAmmoCapacity": 7,
+  "compatibleAmmo": [
+    "ammocreative",
+    "ammo50bmg"
+  ],
+  "damage": 35,
+  "fireSound": "ggo_hecate",
+  "fireModes": [
+    "SINGLE"
+  ],
+  "rpm": 42,
+  "drawCooldownDuration": 920,
+  "gunRecoilInitialAmplitude": 1.3,
+  "shakeRecoilAmplitude": 0.85,
+  "shakeRecoilSpeed": 4,
+  "viewRecoilAmplitude": 4,
+  "compatibleAttachmentGroups": [
+    "snipers_sights"
+  ],
+  "compatibleAttachments": [
+    "hp_suppressor",
+    "cantedrail"
+  ],
+  "defaultAttachments": [
+    "precision_scope"
+  ],
+  "features": [
+    {
+      "type": "MuzzleFlash",
+      "effects": [
+        {
+          "phase": "firing",
+          "name": "muzzle_flash_big_ex"
+        }
+      ],
+      "condition": {
+        "allOf": [
+          {
+            "isUsingDefaultMuzzle": true
+          },
+          {
+            "doesNotHaveAttachment": "hp_suppressor"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Sound",
+      "fireSounds": [
+        {
+          "sound": "gm6lynx_silenced",
+          "volume": 1,
+          "condition": {
+            "hasAttachment": "hp_suppressor"
+          }
+        }
+      ]
+    },
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "ironsights",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "snipers_sights"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Aiming",
+      "zoom": 0.25,
+      "condition": {
+        "doesNotHaveAttachmentGroup": "snipers_sights"
+      }
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex > 1",
+      "duration": 3300,
+      "animation": "animation.model.reload"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 1",
+      "duration": 3300,
+      "animation": "animation.model.reloadoneleft"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 4370,
+      "animation": "animation.model.reloadempty"
+    }
+  ],
+  "effects": [
+    {
+      "phase": "hit_scan_acquired",
+      "name": "tracerminigun"
+    }
+  ],
+  "inspectAnimations": [
+    {
+      "name": "animation.model.inspect",
+      "duration": 5050,
+      "condition": "ammoCount > 1"
+    },
+    {
+      "name": "animation.model.inspectempty",
+      "duration": 5050,
+      "condition": "ammoCount == 0"
+    },
+    {
+      "name": "animation.model.inspectoneleft",
+      "duration": 5050,
+      "condition": "ammoCount == 1"
+    }
+  ]
+}

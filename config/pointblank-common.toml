@@ -55,7 +55,7 @@ hitscanDamageModifier = 1.0
 crosshair = "DEFAULT"
 #Modifier to adjust damage dealt by hitscan weapons
 #Range: 1.0 ~ 10.0
-headshotDamageModifier = 3.0
+headshotDamageModifier = 1.5
 #Enables gore effects
 goreEnabled = true
 #Enables advanced integration with Iris shaders

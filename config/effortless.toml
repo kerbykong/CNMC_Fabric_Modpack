@@ -6,7 +6,7 @@ player = {}
 	#Should allow players to use this mod.
 	allowUseMod = true
 	#Should allow players to break blocks using this mod.
-	allowBreakBlocks = false
+	allowBreakBlocks = true
 	#Should allow players to place blocks using this mod.
 	allowPlaceBlocks = true
 	#Should allow players to interact blocks using this mod.

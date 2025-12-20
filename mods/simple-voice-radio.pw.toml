@@ -1,0 +1,13 @@
+name = "Simple Voice Radio"
+filename = "simpleradio-fabric-1.20.1-3.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fca217ebc7a3fb97a4225d9a4dcdd4b670950fcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6486344
+project-id = 820070

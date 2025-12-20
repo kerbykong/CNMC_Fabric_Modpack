@@ -73,6 +73,10 @@ file = "config/animal_pen_config.json"
 hash = "7a180817275d0da443673ac814d9d29fa3784b33a4c11f439c026a3896d93022"
 
 [[files]]
+file = "config/antitoolbreak.json"
+hash = "e60c6dff90084617cc4edf521b2a74e3562d5dc89397e15d3664a2fecbed2ee9"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -82,11 +86,11 @@ hash = "1e556207a5881c313861795e67480a61dd9741f14dba67be349831b3b43b7708"
 
 [[files]]
 file = "config/armordamagescale.json"
-hash = "b4aa1b6e19a789e913db9c3bd9a0af299eb0acad68d59ffcc04e4389380df9cb"
+hash = "dabcc42633aa31820c407a4e6e192c90357ee9a5b8a29d705ccc7eac748fc216"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "9f201be991dc56ad2d14ce454a91938d7eeaadaf7ac950809d19007ed2f380fe"
+hash = "4e1da4b44855fa9ca6bea61e16e7a97cd963376f1a6eed6e535ea5ee62beacf2"
 
 [[files]]
 file = "config/automessage-client.json"
@@ -119,6 +123,10 @@ hash = "bfd0be07bd478868132ca40562bdf293ffbbeaa16c4b12a4ffd15d89b5a9a887"
 [[files]]
 file = "config/beautify.json"
 hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
+
+[[files]]
+file = "config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
 
 [[files]]
 file = "config/blockrunner-client.toml"
@@ -162,11 +170,15 @@ hash = "d9b33f8022bfa4b9818b3abcc197414c1e88272d21b0df4a01db016c7887d5d2"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "2e33e5590888ad9c37d35ef6ef29d50e8ab7430ee7fd572a69b3583428abebf9"
+hash = "433e76d2a4ae1e69fea64e4c68739830eca836e207966f2da3f2daa61040b897"
 
 [[files]]
 file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/clientsort-server.json"
@@ -206,11 +218,11 @@ hash = "1657526660b6dc4c5d53d3cfd983abf65daa8ca69f4e030589bf35d54dbfadc4"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
+hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "51b32db8b6a6dcea9c6803015a0f28047af4add43fdfae15257e4933a43affe3"
+hash = "bd75bf68c9e98bf5acb0f02a426caad5a3f03fd71f9015b62e769b2ba154e1ed"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -245,6 +257,10 @@ file = "config/createcobblestone-common.toml"
 hash = "5d77b707827c92dc201c41c72affd9c95b7447ff2df3fb0d5a39f8dfaac3a1bb"
 
 [[files]]
+file = "config/createfood.json5"
+hash = "836c486cfac78e50799f610c35666a39fbf39c2103b9779bb4142341d844c0f1"
+
+[[files]]
 file = "config/createrailwaysnavigator-client.toml"
 hash = "620d5ebd2618d2da4023973749dac0c0608aabb8f4e843efa0dd595f9f5954d0"
 
@@ -254,7 +270,7 @@ hash = "6c8b5898345a5239269ac10e233e64dad6ce8fdb6774c59a094c84a4f59dfd5e"
 
 [[files]]
 file = "config/cullleaves.json"
-hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+hash = "5cc86b31860112641a33efc4fd088c6caafda0d85c91ea4d41ffa9ed62e96f64"
 
 [[files]]
 file = "config/cupboard.json"
@@ -297,6 +313,94 @@ file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json"
+hash = "392203e8c3a9c652b7e1262c2506e2c604ec979ba5fd60b0f5dcb12a758adc30"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/155f089d-329a-4446-8d92-f2d4b4d47092.npc.nbt"
+hash = "c55eb2eff056a4e38f23daa5f38b7ae81440fbfe7510b184be0c0f706b596ac5"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/IronArmordummy.npc.nbt"
+hash = "fe8aa897b3ee9d853a914116dc41d0c45a70186a273d973863e6a8cb32c32845"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/testDummy.npc.nbt"
+hash = "5d215ae42d966e11127c448c86a01633697ca7417941a2adc2a026fda287dd65"
+
+[[files]]
+file = "config/easy_npc/render_entity_type_support.cfg"
+hash = "fba940a9ec63ea38f604b5ad05214bc09515b8d5925cbb2ccfc67e8f4111bf01"
+
+[[files]]
+file = "config/easy_npc/skin/allay/allay_template.png"
+hash = "5851df322e03f8c7d4ccd5875a7b8f38b692d6484cd9a8a34ca3ba2e51bcde1a"
+
+[[files]]
+file = "config/easy_npc/skin/cat/cat_template.png"
+hash = "c9c22851b6ce2a97d731b4e476423abcfc4911acd9e29ae157b8be5b42088364"
+
+[[files]]
+file = "config/easy_npc/skin/chicken/chicken_template.png"
+hash = "c9a5d1a53f844f32e2d530103540b4a91cfe8d53861c7b70bcae950742c50422"
+
+[[files]]
+file = "config/easy_npc/skin/fairy/fairy_template.png"
+hash = "db071fe581827f3a195df8344909bafb243cbf54c8931dc60a7785285946d1bb"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/humanoid_template.png"
+hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+hash = "1c194da6ebe3a991146b0ef04a6000451789887a62bf7ee2d8a49b50b4bec6dd"
+
+[[files]]
+file = "config/easy_npc/skin/illager/illager_template.png"
+hash = "d3a9f1a01c6b711bb3ca70f598f14f3cfde8017542a8a48f93f8489b514dc03c"
+
+[[files]]
+file = "config/easy_npc/skin/iron_golem/iron_golem_template.png"
+hash = "2fadcece746b8a921130968a567296e63d4dbdfd1282e21d71fbd278994a4fe6"
+
+[[files]]
+file = "config/easy_npc/skin/orc/orc_template.png"
+hash = "1469eab5ffabb32f3b8ed9965de819db03ee6b0bd950885ad88fc5c517eaf817"
+
+[[files]]
+file = "config/easy_npc/skin/pig/pig_template.png"
+hash = "e1d27259fbaab2ae6924d5fc73ed462215395f08f79ef1518005ee0f73f2a81a"
+
+[[files]]
+file = "config/easy_npc/skin/piglin/piglin_template.png"
+hash = "9d2dfd8515332c4ac529e51599ee89b8a4c359617a225d15a5147020034870a5"
+
+[[files]]
+file = "config/easy_npc/skin/skeleton/skeleton_template.png"
+hash = "aa91f44a9c36bea6c14537e4f73ab69a4b50d4406370577a7a0d63af4783a8c6"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_template.png"
+hash = "ee42acf22b0f8df770510a77e1c0988af96bb4f24e3b82a32b3364be021c760c"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_without_hat_template.png"
+hash = "d24d599378f1fb54f343926c2d39c078c81021cab7da6337f7a688621327cac5"
+
+[[files]]
+file = "config/easy_npc/skin/wolf/wolf_template.png"
+hash = "47833f4690766423c63905c6950224b77867e1c30833fd9a7cdcc0d6455d743a"
+
+[[files]]
+file = "config/easy_npc/skin/zombie/zombie_template.png"
+hash = "e9a38d8b1980d1390575658004f1a8274d57e5f14afaff9a2c7dc06315d01f54"
+
+[[files]]
+file = "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+hash = "fdeea612041dc4c5137675bfb656ff570cad4b33fffa995746f1e56290614516"
+
+[[files]]
 file = "config/easyanvils-client.toml"
 hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
 
@@ -318,15 +422,19 @@ hash = "07b690dfcfefd0a9336b622ecde465549e6afaa25366450d08eb33ba0c71b69c"
 
 [[files]]
 file = "config/effortless-client.toml"
-hash = "f4610ad6b09dc5b0e88f41cdcabfc6e520dbe91498aebf9fb79c6e8e68c5f30b"
+hash = "0409912dfb180333998d52195b3ca10b10f579bdff61b9a3ff347b25e81f6f67"
 
 [[files]]
 file = "config/effortless.toml"
-hash = "0f749059fa6cf715bdcee1f1abd559b7afd8e4ff3335b73857a887bed72ce50b"
+hash = "dc9dd30803eda73adc8a1407c2a6cfd2ca17a615b90148e069601891b857b64a"
 
 [[files]]
 file = "config/emi.css"
 hash = "55912c9162a1dd039aa92803a410daa7d42651b42b6861201c85eb3871576a73"
+
+[[files]]
+file = "config/emi_ores-client.json"
+hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -386,11 +494,19 @@ hash = "e314a939659a1fa504bc6f65701074e9ec33331eba39278953007049d8467e5c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "928acebdeb05b677cd31a6249193028d10fad8c13e5fca27cf0168c36f2bd7e5"
+hash = "268bcb37fe0e8c92e1e2c960dafbe3ed9760cb738e6730308bda3aa4b31f7939"
 
 [[files]]
 file = "config/fancymenu/assets/minecraft.png"
 hash = "50fc2030fcf10de5e37e8a47a7dcc162c81899e5f14085076857a79ad52b8c0f"
+
+[[files]]
+file = "config/fancymenu/assets/shield.png"
+hash = "bd0d6d6c01d2f45d1681a63b87122243b620dd2b4f04d6381b70da174c35de5d"
+
+[[files]]
+file = "config/fancymenu/assets/transparent.png"
+hash = "78220325dc0ce81407497c8891d1a7734d8b1535ef742fa8f948bead33775329"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -398,7 +514,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "3b1cdcdacd19a2db571e46d3573c406308f6a44a4bb574fb3bb8cf49468e019d"
+hash = "b2ec6665ffd3cf0a7fa46cca552aa0602f30ca12df4e10bdd8319589d070e3d4"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "d243e04c6ee5a9a02db2e112f36c43c6d8fb3dca81b2281d587df35baf94c412"
+
+[[files]]
+file = "config/fancymenu/customization/spiffy_overlay_layout.txt"
+hash = "c70d26699929b7f4398e030a72b52a1f97f7ce7a557883ab5f171deb7b7f6e79"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -429,6 +553,14 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/farmersdelight-client.toml"
+hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "747831fd6506f4c06ee5d4d058f8b2b087fe96f1bd4eac9fd3944f91f3feb3d8"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "74dcfec53b15dd8a15f7e8f10ca175701fc313fedaf857d0b54951d9cda05513"
 
@@ -447,6 +579,10 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 [[files]]
 file = "config/feytweaks.json"
 hash = "4c64583a855ae8c5a4ea319084505749070fe588a5481e311fdaa0b1a7d155ce"
+
+[[files]]
+file = "config/filament.json"
+hash = "b0369fcf94a45fb2c899e0f5b7dd0074e934dba7ef64f19b7e77b20b755ea9f3"
 
 [[files]]
 file = "config/fixmyspawnr.toml"
@@ -498,11 +634,11 @@ hash = "eb9877ca65a0f08665927d7b3d87ec1c54056d9f895434c23a47c167e3f063b5"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "cee84de55f42635b0347d7edac146b235b066f22300c5aec7693aff5a1be729d"
+hash = "ba38dff6458d862a96e74bda668d3eeb11a54be06d6659184d743b3397f63dcb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bc634ffe9f362a8d5d6fb48b822bfe04819e84534e61a8808dc17bd634ffde2b"
+hash = "71d73512e00c7f1e00666e3827d9f75fc06ff70c752b57a06e9e775669a8416d"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -530,7 +666,7 @@ hash = "cf9fbe665d78953dd224204bc36912b5852b12d5e8ffb9bf121bd7934837bd5d"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "ccca83f51f20ea9715bad7fbcfaacfacf678358fd5702a9040987b4386d3e177"
+hash = "7c9bea6b2e48c9015bd7a0c3533b2fd37c9743806c85b1aaea15b7b2173eef73"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -610,7 +746,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "63e0033d6e00de97da8ea6f4af1f9e59e072ea06c1c5ae0972e050a11e3f4caa"
+hash = "8146621a6d253cb39d85cc2f723711856f600cdb542d3727521edf4361ae5cb9"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -634,7 +770,7 @@ hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "95727a779910a9bbd4eaff6b1afeb9878bb765eb4bfea4fbeb336ffb65acbf65"
+hash = "06e498d4a829e4236285bd46c51397c85819843b4882f00b4d4f793d940b2e7e"
 
 [[files]]
 file = "config/jei/world/local/Empty_World/bookmarks.ini"
@@ -785,10 +921,6 @@ file = "config/observable.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/openloader/advanced_options.json"
-hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
-
-[[files]]
 file = "config/openpartiesandclaims-server-1.toml.bak"
 hash = "ca69f126f5ccdb23c1c4a412e4252c0db6ef0cd59684f079877aba58fcf1e373"
 
@@ -806,7 +938,7 @@ hash = "f02bf6cf4b8d14191782f152808effef5db453d63df89d198659f91d5470f3c8"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "15a7d7f227106c78672b02b61feae7abcfe89cdfd1b0bce310cc8ccf95365e99"
+hash = "88a12fab921e23deccf906c1560cc295596496cea5b2f1678dd531f244711469"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -838,11 +970,31 @@ hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
 
 [[files]]
 file = "config/pointblank-common.toml"
-hash = "cf63ec4e70dfa9369614eb06d4eda0aa66ac402390731c0621a9bfd3b6758d3b"
+hash = "af1af0a636de3805d4b0f013018bb964b21c0d483d45de5a3089cdd9c12115bd"
 
 [[files]]
 file = "config/pointblank-items.toml"
-hash = "87f198d1d61589d3bb322823e659d012f3406b40b543c43fa7952db6403da9ee"
+hash = "fb47f52a870fc6f1e576cbe5c92706371b0e590e7b821c802ea5e7cae9a108b9"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "3825827c0ee37a298343a1975e66daeb0291d541124526d254bb4a544824daa2"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/networking.json"
+hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "3f7d72ba47fc2dded9abac4df53416d7548fb7b2383b4310f7e63d571bac1bb4"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "7c9836cd8ee74f2a3e91a5d9fe2ab95716bfb6713fbde3f60ee5248c84fc3c26"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
@@ -921,12 +1073,28 @@ file = "config/sidebar_buttons.json"
 hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
 
 [[files]]
+file = "config/simpleradio-client.toml"
+hash = "4ffc01d96821cb6f15bb17df91f5fc65e47685165c2a753bdf63a2c2d31915ce"
+
+[[files]]
+file = "config/simpleradio-server.toml"
+hash = "4564d91c4a33b597c32e88f0e0b70b23b9b43383e7590275fa6259d172a37d78"
+
+[[files]]
 file = "config/sliceanddice-client.toml"
 hash = "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d"
 
 [[files]]
 file = "config/sliceanddice-common.toml"
 hash = "2f39959f7e810b6dcc6d70f9ea337debd59a4a7f16963cd0faefc53c56df7ca7"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "ccb23764d475152ed86080fb0e07451315f2b1a59d2a94f7020cffc2c3d60196"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "3857836632c9ede52ba052171fc45874ffa15127af9958adb5b13b486c6ac6fe"
 
 [[files]]
 file = "config/smoothchunk.json"
@@ -942,7 +1110,7 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "39c0c562530d288eff51fdc3b81e848b52a81e3b582a92427c0541af7b0a6326"
+hash = "1a7203f706e47a4b71c1d3a4d75ed5648572624f9493a204366eb00d6d2cb457"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -950,11 +1118,11 @@ hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
+hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "3c5cc5428550a6a00fe342fdc3eeede98423c00202a2525dbdb24d337d10912c"
+hash = "75cbe14172fb1d253c9e3259f04f58579461c4689e02bbf13affa5878f953a58"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -982,7 +1150,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "0242df4f2c8e26b6acb79e9e9c7b99ea24b2a43728ab99b39187c6fb82b032b4"
+hash = "ab6ba7ae2a28fc61d02e1b67d1c6cfa4043c098165bab9d73bffaba56f1db0ad"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -998,7 +1166,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/starterkit.json5"
-hash = "18c81c65c991801a3335ee10b63fb9db04b70decc17960263eed54e198f0a35c"
+hash = "0d41986996ca9124b5a084cc52806ac48238d6da31855e4d8436fad80b5e7898"
 
 [[files]]
 file = "config/starterkit/descriptions/Archer.txt"
@@ -1018,7 +1186,7 @@ hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "7ef15dda287a37b866a4dbf58964aa5404b73bfbbbc06c8e9aac1ffe7352ad10"
+hash = "fccc8d8c497c1c5947a3d3f071189d077aaa1c55418b34fbc93298dedc9ad328"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -1074,7 +1242,31 @@ hash = "34b0bec9bd8c11543ef15e0f939422bd18a849956c2c3f9c9176dd01ca8ced10"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "0171deaf800b7c69863779182e98031c3cb930bbc5bf6ede6780b5c52eaaa4f3"
+hash = "ed66b88e0ae754cfe588c4e0008f637374dfa66ca73ead11eaa128038c8e394a"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "2fbe7d89e50f4a2b504abb327f336b6e63f21f4e5102d57ad0d835a7e6c4498c"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "d73cc1643e56471424e6df1d1a37a407263aae6ce47acd89fa821ffbf9f68a44"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -1562,11 +1754,11 @@ hash = "8459a7066692d5acdbb06fda1b547b7440baf67643355422780186d823552906"
 
 [[files]]
 file = "config/worldedit/sessions/dd0b831b-82c3-474b-b51b-589c236ee18d.json"
-hash = "46a090f22c22c42f30a6306fff023cf05c98c25fe56049a2da38188b68afe8cf"
+hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "cf5a717cf5065f8a5073d039704bd5ecdf6da2ab6baaf5d198ddf67c9f3aea8a"
+hash = "f68a1c1206d370d2cc28dbc21d861e48a33d6798a5b2546b024eae17c59ce6b7"
 
 [[files]]
 file = "config/worldeditcui.config.json"
@@ -1574,11 +1766,11 @@ hash = "862eb44e855b5ff872006933278eaf6c17c04c4cb56c6a90f7e2b1c232a2920b"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "71cffe7689e579cdf95700b08791f8382f9ae4e9709c5f6f4addc736f145ab3e"
+hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -1677,8 +1869,16 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/pinch_of_gunpowder.png"
+hash = "20d965f32017d818b16c2e7505ba1755dfbad7b659e89d388e9a4e555e41d02a"
+
+[[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1689,13 +1889,45 @@ file = "kubejs/config/common.properties"
 hash = "c4bb70419f70e289edf108d144c3a5bb2822d1912632b3095fe24a37001fd838"
 
 [[files]]
+file = "kubejs/server_scripts/ammo_recipe.js"
+hash = "07abc71822dde3c2e0f71fbd91a8bc67faa336bf042d2a0e6e8ca548af89345c"
+
+[[files]]
+file = "kubejs/server_scripts/blaze_cake_recipe.js"
+hash = "e07854cb8ec86701f1b6e986b924f9ed5396ecc68f8f418d0826e271035b3896"
+
+[[files]]
+file = "kubejs/server_scripts/casing_recipes.js"
+hash = "4dd973e0489a7e00651592414ea9d632a56d628c976eb656e601f29fdba8a6f9"
+
+[[files]]
+file = "kubejs/server_scripts/disabled_recipes.js"
+hash = "fea111b3d2b6c2e1fc26049a90bebfdbe76564baf8cde4cc1dd0333e5ce23d91"
+
+[[files]]
+file = "kubejs/server_scripts/pinch_of_gunpowder_recipe.js"
+hash = "42b69bfae6291d488e1d61d88e747a075cc848682384c973bbec75e5afc64223"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_items.js"
+hash = "3fbd806b4a6784d8b5df18a4a802ffd57f7bda9007af3f79a07be9a393f9070a"
+
+[[files]]
+file = "kubejs/startup_scripts/incomplete_ammo.js"
+hash = "6b47a3d4d735f814e8281d28c428c5baf84c315d0f3b87bef0252f5664661149"
+
+[[files]]
+file = "kubejs/startup_scripts/item_adjustments.js"
+hash = "f903df76cb62d3c28b8e37bf05b72b7223c71f99d021a9a013d80b971ae8096a"
+
+[[files]]
 file = "mods/access-denied.pw.toml"
-hash = "5f3b64ea6f7f14e47b6f5bae501942c3f595bcfe95506f32b5f1d6945eb2482a"
+hash = "fa09552ffc9736a96f414336b82c30a69aeaee6584fec57ec9b5c95f0fe24719"
 metafile = true
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
+hash = "d0e56f4a48cc62066e31c4e4dcfb7e0141b4b707f9106dc383370926197918fd"
 metafile = true
 
 [[files]]
@@ -1726,6 +1958,11 @@ metafile = true
 [[files]]
 file = "mods/animal-pens.pw.toml"
 hash = "603e54623e6ff910cf80d874d7e8bdd67b63ffeac95f91b3f22c275ea49b9968"
+metafile = true
+
+[[files]]
+file = "mods/anti-tool-break-fabric.pw.toml"
+hash = "95df7dbde6184c00902e39017db310795faefbd359b8f9bc0c7ac216455a3e42"
 metafile = true
 
 [[files]]
@@ -1796,6 +2033,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
 metafile = true
 
 [[files]]
@@ -1879,6 +2121,11 @@ hash = "630b06eab9206ae9c1996d2e7d558048ebf796ebd2f4741115f00e94c46eb79f"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config-legacy.pw.toml"
+hash = "8161c1e853adc1b825d40774d6b5e8aa9b07add0cfe9c27fcf2e3d9e4cde5182"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
@@ -1935,7 +2182,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "066c2d0852725019730a4494fa3f0d80d02039723ff4dac75d1c6172ab0db99c"
+hash = "305084d8d1b411b8121d600899a551c17030a7a17246cb45385d6e4873d4225b"
 metafile = true
 
 [[files]]
@@ -1966,6 +2213,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c9297ce4f2d18b77e8ce81e94796f8b7e793f59f319cc574271e6e16980e23d1"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "07bccff9013248eaa4eebee672530eb709120e0e39fae232ff0f45242f850279"
 metafile = true
 
 [[files]]
@@ -2063,6 +2315,11 @@ hash = "49b988bf9af6cc2138aeba46e121c3865680cdf125d74af0c47466be9db5fa12"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "40df4442eb2c5f998e4a9a4963ee3603f767f0c7e78f91d2f68607cfa1475bea"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "ffcc19eef8492c01db0e6a4f8a789509897faae72bb0612ade64f58c74aab918"
 metafile = true
@@ -2070,6 +2327,16 @@ metafile = true
 [[files]]
 file = "mods/effortless-building-fabric.pw.toml"
 hash = "9103d28353bff589154441c53e9ada35828f8ef6afcb42f77ec3caf2e3bdbd18"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "feb8d4a8b02b80a0fb51ac0e84ba36a1b7576a823af68ec5579acded5aa834a6"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "db142173a134c93c5daad4bf18ac9d213982e05d936d5a9b622fd346b538646e"
 metafile = true
 
 [[files]]
@@ -2133,6 +2400,11 @@ hash = "0ad3dbdddcb7af96b8b91eab02a68b6bd9f69fa365765560bfac2d4051e65ad7"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "91d77e070777044a75b782afc2e2267890e929069e264c3d0e9201eff7c207c1"
+metafile = true
+
+[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "9470fb9435b56597681a290a14707e527930456cf89fbce20c5196c72fc31252"
 metafile = true
@@ -2183,13 +2455,18 @@ hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "42b0e94254b3fa4eaf4cfe24d67223acfd0c93868f1e9df19d1f8c172b8dbda4"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
+hash = "7c4c132e1ffb20c72dfc2b9288cffc457df74417b264b83a007f969b323fecff"
 metafile = true
 
 [[files]]
@@ -2293,6 +2570,11 @@ hash = "34f9d95129ee85e65fb0c4c982b76c247bb11b59ca5bf50a84dd5daae33c51f6"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create-for-fabric-1-20-1.pw.toml"
+hash = "d752a2ffe4a829eb74644552aa8034f840f2e1cba6f429d59380ea5e3b773d42"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "8e3536092375aecb58eff2d81714fab7a3272375c9e6e19481ea500e6fbd9726"
 metafile = true
@@ -2320,6 +2602,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "302e1ed3744ed7c21554cedc6d418d658faadc52c3fff942ba091a63acd2390c"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "599f0bb2db9c0418f839423cbe3b9ff349d4375dba857d3264a866eea47bd9af"
 metafile = true
 
 [[files]]
@@ -2454,7 +2741,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c2ad3d7ad9cad74d92f0d07dc156da21636cd54bd23de7c22529ec27c297d821"
+hash = "2df6a32c7f13d437f5b398822a395ee0fc35a4ef66a01314db6da5334025818e"
 metafile = true
 
 [[files]]
@@ -2543,6 +2830,11 @@ hash = "f3dd8e053f22a26dcd6b1b203dc271ea4209ad35b0ae7c85b2bc002851797f5f"
 metafile = true
 
 [[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "afd4de67d25bb0614dbf95f55fd518c213a11fb1c35641d6f79ab34072cf1d4f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
 metafile = true
@@ -2623,6 +2915,16 @@ hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "eecc1e73468a6899c4e8365ea1e2d681f65c603c9bb64c061f4793f4aa6351fe"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "ea130a480334431de8ff4bc2af8b21d24ecfbabe7e63be071c1cddf093cf8c61"
+metafile = true
+
+[[files]]
 file = "mods/skys-overworld-netherite.pw.toml"
 hash = "a3cd33fccf3ddfaa1948c2ee77d72c1582553f4a6d5b2aa0d47b3a4cefef5b24"
 metafile = true
@@ -2630,6 +2932,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "194bcdfc276baead9bff868c35e1cfc070de74d2edccbe1b0a68711a170f3387"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "4480e76155118ce6166af2169990b8e7db30f7925ce51d7cac1c397403e037fe"
 metafile = true
 
 [[files]]
@@ -2768,6 +3075,11 @@ hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "340149241fe1a7b102c850c9ed89f091bbb3bb715ab608d4bb23eb4bd9f10962"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "44e64dbb7f95c2ee2caf437dc9fe0755176badc19f4453a78291dd49746edd57"
 metafile = true
@@ -2781,6 +3093,1254 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/README.txt"
+hash = "962e0ec22ee6f8124d5660ff767543f5f3fd78150823ef93cf9b1c63fa409b1c"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/barm1918.animation.json"
+hash = "ae332ab414dd9c943ef5790665b2af88a99a5000b4be019e43cb34945f57fc59"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/lewisgun.animation.json"
+hash = "9c8cd4428ced64a62e8ec83b6d6ad83a38ecbf2e0674caab1acc6aa27e7154fa"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/lugerp08.animation.json"
+hash = "0d3cbba6b52dd9a50e8ec054c1a598e4970d8d5b72c4f1002a9c812cf2177ac1"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/mid_mp18.animation.json"
+hash = "2214dd0a8caee84563cfb4ea3591f53b1db61eced5b838b19cc8596c26ce03e4"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/mosin189130pu.animation.json"
+hash = "0daa0e8aedea9247cfeab14503756c8bb19b693cd57a175706a8302fb49084eb"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/animations/item/winchestermodel1907.animation.json"
+hash = "41ec00bf35493dc8757191392c8bd7034ebcf6a0ccb9128e583d6378e48af4c9"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/1913telescopic.geo.json"
+hash = "4fc64120814b97687984148445780c69ecc0e641aa5cd81b73739da7ea4b196a"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/barm1918.geo.json"
+hash = "f76f4ac2c488e86c968f22357db03d07481113263249ec11029f6629533474fc"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/lewisgun.geo.json"
+hash = "f60b0536fadd498f454af0967001c8a0900fce24da234e905289e66b2cc63294"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/lugerp08.geo.json"
+hash = "917c1dcd1f2bb8461928459db6e95129b4a844b76b521168a7fdb88b2d072d19"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/mid_mp18.geo.json"
+hash = "af272149b9594f422f72a27232e941b3ffdf70428ba4245369b8a1a6d211daa5"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/mid_zf39.geo.json"
+hash = "0dd98eda2678d440008b54d851cf071640b62d336a287f4100f51f55748f35d9"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/mosin189130pu.geo.json"
+hash = "cdc0b713b7957ee86d0b7ee91fb4e22ab003fd90a98687adde5981dc0a77feec"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/ppco.geo.json"
+hash = "95abdfe7b70ad12c15366eaf573b2d5b654000ddb012ba53d1d8213b8aa731ec"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/pu_scope.geo.json"
+hash = "b1dadf451f4ccdb324f2db95f9586bd4f298bf5f7acfbec3823265f17305520d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/geo/item/winchestermodel1907.geo.json"
+hash = "202a98e4048dfe8f0e1a35b1103d86d10ff2e10efe57271b1021410b8233d45f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/1913telescopic.json"
+hash = "ffc5d73324c3ea64dd4cd2ca382eb06f3c56ded56a4f055735c6c29f490e2554"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/barm1918.json"
+hash = "3ed17388bfc50c401e07d5046accd06d5e09e389e920f320a75f3f8a56970f9f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/lewisgun.json"
+hash = "c6bb5dd0e07a08eabc00e5173a8a5da397bf539167cfccc1eca52cc3fb09502f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/lugerp08.json"
+hash = "1d16ffaeece8f2a45ec1be756b2b04ca72739b812a5bd35bbf20a138f5b83990"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/mid_mp18.json"
+hash = "4b0420579d4ee532b66a789bb20bbbcb6ce0a9094cad1850aedff8f0e7deda4e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/mosin189130pu.json"
+hash = "3612a87d329726b1f97bbacee2f3e1ebd71e74b0e839413c92b8958e2c94067e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/ppco.json"
+hash = "547c5c5e2b6183f9b410d7986304c02b8a9a70afa7e77dc5a176bce6062667e0"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/pu_scope.json"
+hash = "f859dcc48e623312f0d66a96700196f79ddbadb6813c5852603897cfe9e1a4b7"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/items/winchestermodel1907.json"
+hash = "a87cc4d5ed5834f7328ce75e6fcf6255b85cb45963247101d3d4691475c67e62"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/lang/en_us.json"
+hash = "cc14ec3e58dfa9a44e7b03a878b133feca9c5ff83ba064819dc807abdb202747"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/1913telescopic.json"
+hash = "ca176791d1215aa7cf447693739cd166d7d240f98858fef089802cad89c51835"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/barm1918.json"
+hash = "d1230593274409fc5be302197cd1d4b92b5884fa9399c327199ac5198d15f010"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/lewisgun.json"
+hash = "37fbf3ef7dd7c415d67c88bb18296b38bd10db792bdcb4ecc7322bc5567ec8a3"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/lugerp08.json"
+hash = "64721593fd3f8f17f5ba893ddcd766d70b4e2216fc0e062670740df1435434d5"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/mid_mp18.json"
+hash = "e0f6fee9e7f1d62a6a85e5ea1b7c19e4332738c3d131b4c560922ba36e966da1"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/mid_zf39.json"
+hash = "bcc59021c7f020b0cbba8631c0ec6274e52b8bda87caa8a16422f814a8eb387b"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/mosin189130pu.json"
+hash = "a6e38827f426067a8d33bd9a8ceaf08cacfada179235ffe25aab14cad3f7d6b1"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/ppco.json"
+hash = "5d43545df5cc990817e3e9a89a2406020e5c69c0407336f9037d5fb212dd3285"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/pu_scope.json"
+hash = "9c54437eb98c0463bde40e5eb1075b15240f4cff6665b9b2fb25a3fb070e62e4"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/models/item/winchestermodel1907.json"
+hash = "c9f04546484af476820a02c40a9cfc7c8567d8bea28f43d2dd95d4f04b8059fd"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds.json"
+hash = "20051aa15e199648a89e45522a492fa61a84d0ad216765fd95f2a0d3d87ba626"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/barfire.ogg"
+hash = "c621b0aa7d5ce3aa2401f35f6ec5f4b7d3ea6cb531dbb5a44900c63e0be79900"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/barload1.ogg"
+hash = "f69f5f65aaa29c232bd6bfa907abe151acc2e6153fe24ba04367fb81e7c475d6"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/barload2.ogg"
+hash = "56e2f2907fa2d2b3a740a64af8bc70d7f71bd244189639f903e2888eb0d5ff94"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/boltsingleload.ogg"
+hash = "0285e7eb0a902688911ebba9c83daa8e606b1dc50dc3c142a8f1855f5055a491"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/boltsingleload2.ogg"
+hash = "0d5d20cab5148ee9f5dc45fab2f992cb510e9e464e4a84222042742c1ed89083"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lewisgunfire.ogg"
+hash = "a6f81feb8cf80723ad35d13f8053cae2f28b14742b9815203d3366b58bd5debd"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lewisgunreload.ogg"
+hash = "7d52e3d5b0f83cdeff7a3ac2fdf8b929be8b09f7e2a696a3c6e68efa973b265d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lewisgunreloadempty.ogg"
+hash = "222c685b280dbcf89478885aebce42472d065c77eeacda28a6bed4ff7360096c"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lugerfire.ogg"
+hash = "de6067f6a860dfe097f362feac22398ed6d54f1acddf0d5d90a76548e2d851ae"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lugerreload.ogg"
+hash = "326632f3284f462999195cc3d3c8b0df5f86855e984ad7687d080ea7e3594d8a"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lugerreloadempty_1.ogg"
+hash = "fff0454d0029f0e5cf61b00ff0d62709b5890d622bdcbf29ff0aa82050bcf9a0"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/lugerreloadempty_2.ogg"
+hash = "165b589158a688bbe5f625ec8a47d52c06157d31749d8a291294dd27421f9769"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/m1907fire.ogg"
+hash = "9a0d0dd84ee6de569653629fcb1f91884a727c91380fdb3346bbb751a4ad07fb"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/m1907reload.ogg"
+hash = "45ab24aa8b6a0a177b48c43ba6b60f172f9b16091d0f64ae8e79a4ae2f8104bf"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/m1907reloadempty.ogg"
+hash = "23fac11925d279a7bf26d3471aba32913ae156114369cf1b7cde3a25c6251a3e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_boltactionwave1.ogg"
+hash = "5a72b1f89d0fcdd697a0e1083aa7456f93ac145883293e511ccd5ee0877333d5"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_boltback.ogg"
+hash = "1b78b6c84d23a520eca36061f8e06145b911ee1ad1eca5a00486429402271350"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_boltfowards.ogg"
+hash = "8f2d791b17e4f213c92daa6575fe2554776602a4a8c37e97278d7d0a39839dcc"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_fire.ogg"
+hash = "d92120739afe5676c69451b4023b5393d63ccb8dd257afac2e18cbca5a76dc6d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_insert1.ogg"
+hash = "323cf1015a89d52b7994f79044be6d6f51e588bcbc334ac8806686379993b1a1"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_stripperclip_eject.ogg"
+hash = "cabacee986bf7300da19d65321cb9daac715f212882d4fe4029dc347eadc382f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_stripperclip_in.ogg"
+hash = "54987e5e81d27a9154d6b1bca5ab7e62014e4be0ed3ea777489f72792b162671"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosin1891_stripperclip_place.ogg"
+hash = "a311f70b3c7765af7104cf45c222f775da2f28e1f0a4b016effeafb90d264956"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosinfinish.ogg"
+hash = "12e0ffa0a403c3b3e984aca1caccc8a20a6c2df7c2ec7d874f95a97233676b2e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosinfire.ogg"
+hash = "8a96e1d040e5e7bbc4b43429ca6d7a8cdc4df14b3fa6d5ace8b99c370e6147c7"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mosinprepare.ogg"
+hash = "6b4de70706c2ea8904305ed16a0f08f1754f7755f9e2808b984a6066622868a4"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_boltback.ogg"
+hash = "cc9310dc7e0b5fae5e2f14ecceada7764ef0d8c5674d9f95f2057cca50a4ff72"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_drum_magout_rattle.ogg"
+hash = "d648198d83c21537ecd3409ef1ab992b454cab732fada8c0480879bfadea6cf0"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_empty.ogg"
+hash = "52944abf990e285e2cafa495f681bbd06cffa2595542986d3e6483dfd5f1ca9b"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_fire.ogg"
+hash = "b7ef10b9eb5c171bbc1dde3fcb1ef6d70f92b3edacefed6b823ebc69fa3bf03d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_magin.ogg"
+hash = "bf6fdac926c35f86a75e9a307332c38bd2b70299022ae71fb794c6ae3aee3ebe"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/mp18_magout.ogg"
+hash = "94d5d3efdefaa9f52718b9c5d7c232218d4979bbab31780cc7c423d2b61d5c5a"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/placeholder_assaultrifle.ogg"
+hash = "fcbc41aabab3f5acd0c1a02a841cd871ec29ed6b1252e7bec85ee77f49ef379f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/placeholder_shotgun.ogg"
+hash = "0cfc7b82d2a83e4da91b98059d096dece6e07a7648ee325b60af456a4dbd8286"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/placeholder_sniper.ogg"
+hash = "b0a27613f843db689491c7ee0f04fce3bcd281497f770fe7d57357edfbc3a11f"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_bolt_back.ogg"
+hash = "78331a9d573f8cdce4ea7469a04ec9ceec10c71614cd2ed09b35f7d065ecdc3d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_fire.ogg"
+hash = "ca319e4c774ccefab412f390329c431c54cb4214f2da6fed88cbea05093adb5b"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_magin.ogg"
+hash = "4dbfe709b6f83fef23ca689f22ca336a9d7e74c14db2759f048b3c564754a76e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_magout.ogg"
+hash = "273b9f8398f8e3f7ef19f7845c19ef77518c6bc3dbc482bde181dee95c746aab"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_magrattle.ogg"
+hash = "96fbac90673e9e3e048ba8bd50a47b6ecaa8d5fc524698ab1262969f282fdd21"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_magrelease.ogg"
+hash = "fc570e5818cdf5f54b7a622cf1def8ad0c95b2d1965038406a912782222d7985"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_dp_magslap.ogg"
+hash = "89eb360b0ffe64cf99f2cc17e9cb626cdcbc13b33035f23a973f8aa5ab5de1e2"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/sounds/trauma_equip.ogg"
+hash = "3ecddd7fcd7f1afeda2409800854789edca96e2bc52f9a0af070f0e6c5566dfb"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/gui/germanrussian_scope_pip.png"
+hash = "325d14a165c5390129a18b4621b44b2418ad04be0fc815629fccda2efe04fb17"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/gui/placeholder_scope.png"
+hash = "d7c2d827a6bbe4ed2d1dff16f81ba97d38e2b53119d3a641bdb860a5ff3a3349"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/gui/trauma_britishscope_pip.png"
+hash = "0cacc24c8cf993bfaa3871e22eb3300f2e0ebde0709bd14f1a3a0b4f50aac9ea"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/1913telescopic.png"
+hash = "a8c27300d85c689ed90d2bd864d178c0ee8b43492692ddfb3b16521ea4986b86"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/barm1918.png"
+hash = "f0ea57731ebfc03ea5b2c724eced6708a8608d872d1154a4ef0b169343497672"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/barm1918icon.png"
+hash = "8aed8e23949e4e4a531d597a995e36b8ab2a224ec97fdc0d6737bc46d6546444"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/lewisgun.png"
+hash = "f5b22d15d32135111eb048dd2db69e1f044788f34df9f98a930be3935a1f8229"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/lewisgunicon.png"
+hash = "711b92cee3ec43145b00d8747cd633bded911f61c7e701e0a50ed382ae442431"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/lugerp08.png"
+hash = "9ed0c0a6c13e794c4c80abca6c3ac2e92cbe870e1bd189e7c4f38a01905e1ed7"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/lugerp08icon.png"
+hash = "f8ebd8f7f31828fd737af53cbea3b7ae4e1d02c74f7ac21324d04b480aa4bac0"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/mid_mp18.png"
+hash = "da11a9d6925eaef1f4ed2a6bf7deec834d84be945cf43ac78d173691da3c2048"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/mid_mp18icon.png"
+hash = "59a6cc2477cbb4b8a2f6347df28e04259fce0ec80a2193d8aec54d56107cd6e8"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/mid_zf39.png"
+hash = "d1e603a194e9cf560942b0ade4752e3ad820eca86329f5eb70361053652257df"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/mosin189130pu.png"
+hash = "8c1104a2bd531adff1da38c6b3fda22139dfd6021cd1a9dd7fcb6f29c31c1a4d"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/mosin189130puicon.png"
+hash = "6bcd11dfe5a82e76a0596bdce300ec5ee449483cf42ae79521cddb12eff84982"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/ppco.png"
+hash = "0da38e4b396441ea6f52a862e86ba8f51d18c61d6721ad51ce162b44b08e2a0c"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/pu_scope.png"
+hash = "f7692f6f5af0fbfd38a0536d8b2edb6a7c23fd69954f20f66ad18ad995eaf526"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/winchestermodel1907.png"
+hash = "84aa59f59b48e26a8ec38610b058a4cb5363df9c7b7a33048165bc553753bfc9"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/assets/pointblank/textures/item/winchestermodel1907icon.png"
+hash = "7191f0161bc372ba352c38291ef284747c2febc3f97549924f5212be141fc3d0"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/1913telescopic.json"
+hash = "705cbaa11e51a3c3f0d876117f0fa72567b52ab7b4f08b7d825220b1ca1dddda"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/barm1918.json"
+hash = "2eeb71ee248dfab0191df7fa2b0f8a66941ac1395a6c2a7d8d6baa9cf061f858"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/lewisgun.json"
+hash = "712bd77f3c7b01e892f86ccfe33898763fae3f913dae063d6cf48b53decd2be6"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/lugerp08.json"
+hash = "17fa1e5e7a3358fb70bcd1957ee02756642373029f7600a2c6082799812bd6c1"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/mid_zf39.json"
+hash = "3a2313b110d579d7426154306d973b20c08485e491e70c4099f7c74cecb34cc2"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/mosin189130pu.json"
+hash = "d05f89b72487e38522a9b4ba3d27435aff4e9695597a962e5dccfe168757d22e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/mp18.json"
+hash = "8c1a39c50bfbb8fedb143987a85b18504d3c3d08cdd68142bd2121759a939841"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/ppco.json"
+hash = "444adfc22d2206d5fe5fb397fadd450746acc18c964c8c507af296b1fa4fdfc7"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/pu_scope.json"
+hash = "ec639be76f070a036b55a1ed235be1a9b691048bdb8a484316770021c7663bf4"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/data/pointblank/recipes/winchestermodel1907.json"
+hash = "1accb188c4511e5c86e9ef94114c57555a803bacd3794d1f7cd7afe158419a3e"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/ext.json"
+hash = "f3892932980b20367594193308f20b0b5eed1ac524b6c562a499fe7f972b58fa"
+
+[[files]]
+file = "pointblank/TRAUMA_PACK/pack.mcmeta"
+hash = "79108a86e584ecbfc34c7a7e1509fa81a344317679a12fc84775d754f1e5ac77"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/animations/item/doom_shotgun.animation.json"
+hash = "9f93e8bacdadec90804a46b2297b26878f2addcc9ffd6bfbc79a27a1eed4e4a5"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/effects/doom_ssgflash.json"
+hash = "5a7e490542704530e333ceb7eb6107e67e661943188ca5d4e33223a2b86c03c3"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/ammo556-new.geo.json"
+hash = "b9b2bd822750775c131922bd8932e261d2a411b443803b3a2586103cd7d157ec"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_50calpistol.geo.json"
+hash = "fcc813450c3595dd4bb5d5ddc44a94d1881e2e7c197b6f59d791594275890fc6"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_50calrifle.geo.json"
+hash = "204714321ee0874ffad19ec70a802a1c9134f903f2797baee91f5ec42d8d882f"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_argentblastcharge.geo.json"
+hash = "d9584cac10b94dc5a0bf5790aa22a566e38ef7843ba675a1cf57884df62163ad"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_argentrocket.geo.json"
+hash = "492160c5bb31f660042ddbad8206f6d66875acb1a2668145b3645796a10142de"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_bfg9000.geo.json"
+hash = "ba1695cf709b9ce98c2d22d5e55c759ef35fe1b3930aee51a5b87845d45facfa"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_combatshotgun.geo.json"
+hash = "8048651fbaa59f6846fe8483401610408e2009fefcbd7dae737f92377b40b51e"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_gausscannon.geo.json"
+hash = "17f332243fdb22d90ee173839ad3436b9c4937de3713c74c9f5c8c8e5cb33ed2"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_handgun.geo.json"
+hash = "1afeb5bd94875744efbb8d8605cbf53c743d76f796f1fce78ce4805c1b879d14"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_heavycannon.geo.json"
+hash = "b88a34fa651aacf5661a54dcc4dcf27fbbb340011f50f16ff54bfa6dc3de0306"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_launcher.geo.json"
+hash = "07abd9a6250fd85df5ed6ba882eec68de687dc5eae668d7f2b45bd5814f3d13f"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_plasmacell.geo.json"
+hash = "9c319aa6d1a2975e08a9423cba4fc49e95fd738a3a578ecf3c535284dbe2f246"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_plasmachaingun.geo.json"
+hash = "8f83c3285cb447360e73b39b39243fe13d608d4cc83b3501670e087aa7349c10"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_plasmagun.geo.json"
+hash = "4b185efe4e5c9b8ea31b8b0372b40a2dbddcb2458aa7e0421a1e6d2c531776bc"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_plasmapistol.geo.json"
+hash = "6509230a72a62fbc2c1de7dcf050a458f01f00ba42950105f00fd4cb6ccb450e"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_precisionbolt.geo.json"
+hash = "881780f428e4a94ef06287a7915cc7e5aa52fbb332a388f034c4dccbc17a22af"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_rocketlauncher.geo.json"
+hash = "599da69a44b991f753543885c0b91c744b022b92653aa0915970a7056c2d6959"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_shotgun.geo.json"
+hash = "d4965b6fb7cfd4d42ec528929aacd651f1c190cd988bedfcfdad31d72fa43a4c"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_steelflechette.geo.json"
+hash = "9450a95dbd120156a0e33f51e3781078c6daa6ed2491d6755f19f962d10fa41a"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/geo/item/doom_supershotgun.geo.json"
+hash = "0b3cc96d585b584dc49787ceafe5eb8e7bd447e9fde190b5e8dda36977e96468"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/items/doom_shotgun.json"
+hash = "c758edc895fbbd8d7640bbd29b38a9ffb537ed9c71dae02e7e2e2d7d7698deac"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/lang/en_us.json"
+hash = "ebf9f3a458fb6dde963144f0132253874ff47c2dc53cb92f263e05ece302302c"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/models/item/doom_shotgun.json"
+hash = "112d4a45fe76b216ff2f977409cbe5ad19a733b2e3aaa8169f45c0f1c0ee4661"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds.json"
+hash = "eac8ea3bfc988d0e85bec4580da34b2f4a4f58cca4498374061939bf6d5f62b6"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_rl.ogg"
+hash = "eb5cd01682d9dbfaf511d9e6fd3d4888f148c9689f1b25a4b97496665a914e55"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_rl_load.ogg"
+hash = "97291e12befa5b49ab1fd73fcd70842d979600f6e5d04b86747e00a968efcc26"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_rl_loadnew.ogg"
+hash = "38b2e4918f5ef182587cd35ae678f12c50fbfd571380ec362069563edd414c3d"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_rl_unload.ogg"
+hash = "7a72d3e9bd7a9d4390d0c14e9bf3fab80707f0b029cb9d3510b9ad6fe64213df"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_ssg_close.ogg"
+hash = "d82092568f288828ec17478a83d03b3acf99c06ea78a23d52d44c53e79da31f7"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_ssg_load.ogg"
+hash = "f49d949c807a69022cdc8a465755c85aed427a2edbc5d4f0edf990195e013a30"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_ssg_open.ogg"
+hash = "b51060005b4efe1ff4fe8ba9e8b049192a68abaf56c241fb0cdcff7bd0eea521"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_ssg_unload.ogg"
+hash = "09b60e5b122ceda1f44c0b30b24041075297d2860d8f3476fefd01108518da90"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doom_supershotgun.ogg"
+hash = "c12938a62ade1e82921de8efe6f701ec71cabe5fa1f1a363eed769de87d2c249"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/sounds/doomshotgun.ogg"
+hash = "bfbcdfd8e4503ab9ccae5b925b0324c56eb243c1b0f0745a09da5127a84f85b5"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/effect/doom_fire2nd.png"
+hash = "2bddf04c2da9f75532f00d2467e5d2efff410c831d56c34da00f1959cfb1f5d4"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/effect/doom_firesprite.png"
+hash = "9f5952fd53b76b8e66a88d532e7bf9e28c22032186773c9a90a8ae5db8f38d33"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/effect/doom_ssgflash.png"
+hash = "38655f5a0c2fa0c38013f349f303a97ce6bc4c64ecf59aea125ff6631c58907d"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/item/ammo556-new.png"
+hash = "adf457e4dc29644ed4c978d092e536af848b1703dc688c86c847a7c9343bf7ba"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/item/doom_shotgun.icon.png"
+hash = "4537a00986d84d7e6da5db54d82d48a258ec115e86401db5b85cb2e7a7145d28"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/assets/pointblank/textures/item/doom_shotgun.png"
+hash = "3a04be3c76f55cc120868a3ffdd4e01672161add752aa58d8501ae5661d5ef0b"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/data/pointblank/recipes/doom_shotgun.json"
+hash = "4a2c45e578c1bf1ed27fc06699512ea21f42057ce3e7a0bfce71686d1082b425"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/ext.json"
+hash = "cd9ae6af21848e7cf0e08b49c44f2d753de4fef6f999cec3454c0ffbef8af91a"
+
+[[files]]
+file = "pointblank/doom-ext v1.3.5/pack.mcmeta"
+hash = "083f5167f970063df924bd70b389da5cb0c8ab8122312bf1ee89f423c7e50eea"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/animations/item/ggo_fiveseven.animation.json"
+hash = "dac922649d086f62c285f085123932bcc93a41b58736e7610e965b7ee21ba6cc"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/animations/item/ggo_hecate.animation.json"
+hash = "03d6792aaeb8328456bbf809c13ed4a35db368da5ee76996556cd8808351c2b1"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/geo/item/ggo_fiveseven.geo.json"
+hash = "a0dac38cca470892dd4468cc4d4fd426dd15671d2638ee9ed5a58d43fd28eb36"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/geo/item/ggo_hecate.geo.json"
+hash = "6b63ff10d61c80567de4d61dd60ff9988cfab83960f7b84ba6bb306ed4b81386"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/geo/item/ggo_pistolrail.geo.json"
+hash = "28aeb893662c2e30e3930497e2689808a5b3406b46889d97ef9dc48fe745a2bf"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/items/ggo_fiveseven.json"
+hash = "12b517431fde80892222cfd69e6cf0468a967ca957c706e105250b7427c0fa7b"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/items/ggo_hecate.json"
+hash = "b62493bad6e549f7e72d7ecbbcc6d1ceee325c0f65a3efb05220f444a65317da"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/items/ggo_pistolrail.json"
+hash = "01ce314ee179b1a3c2a1c9352b3a0b663a5e1de82c577012a97bf8d057c43798"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/lang/en_us.json"
+hash = "2fb3620ca0409ccd981382e2d099ffc329a7cfc487fdb35aa143e1599d42c3d0"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/models/item/ggo_fiveseven.json"
+hash = "6ee0ca0438461991af7ec8bf91fa3819a513daeed08f72e6cb525a9a5d875b03"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/models/item/ggo_hecate.json"
+hash = "351f0aa915ca5a8677742a46235de602efe112743c21339696607b041f840d25"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/models/item/ggo_pistolrail.json"
+hash = "7885adaf7e1fae540470492cfc2ce45bd8859a69c9ae0158cb911392dcd2dc09"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds.json"
+hash = "2de357a468628e5bea228be4948861f0a5809c9112c0fd2d853581d98bb2a7dd"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_fiveseven.ogg"
+hash = "04931a163062503663dc01a0c8280af47ccaa8b843f224115d9bdf9c5fa7909e"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_fivesevensilenced.ogg"
+hash = "d4d4568f67f850fce124ffb8da72fedfa2caaee5e5493e011ba6fa8659bcfd1b"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate.ogg"
+hash = "189cef18715ca33b399e8e99ac6a018535837fdf1a1c99a0084be9e5d2eb5ccd"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate_boltback.ogg"
+hash = "289c4db7be471bf74b12efe62129f4554b24ada8a0efebb387ffae5a55fcaf3c"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate_boltback2.ogg"
+hash = "a761b5c247d9859c4c671c05c2b82c05f30d6fc5925d3921b7baca43b1613505"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate_boltforward.ogg"
+hash = "4d2626c68eba73c32d78c49db6f74e771b2642b378fd9855cc65d41b5c79a7d2"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate_magin.ogg"
+hash = "f67e36b400e4b4b603fff203642b6368bfa68a7ef448c630881aa6eefb044a19"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_hecate_magout.ogg"
+hash = "022513eb82992d5ad08b935543e1e3b3d30a53b0950dd72811fcca107bc2ad6c"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/sounds/ggo_switch.ogg"
+hash = "09f063c55ccf1833c0b713e80a57e0a11e72fe1c39b78dd02f9a740125ed8ddb"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_fiveseven.icon.png"
+hash = "66872d92791be157f7d7436acc166c23f14b281509e56dbe3d3e0070bb0fb0f5"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_fiveseven.png"
+hash = "9e2d3316b294b65c49f56e1975c91990c89beb47bd74a646ba205c5a871226c6"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_hecate.icon.png"
+hash = "8e460608b37d3fc1315373275de32c27db5abaad8ddeb813a602ddf86115ae61"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_hecate.png"
+hash = "64d41088e6ad13be55c5069903e4d83254b0a454b53e05138d803c124796746c"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_pistolrail.png"
+hash = "4f3f035472edb71459adb6df9826fb69c0b377fd38e4f4adc2feb1c873d3eb29"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/assets/pointblank/textures/item/ggo_reddot.png"
+hash = "7a4f046dd8da5066df5a96d96d9ee61a8b8885349306ad789ff77660a922120d"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/data/pointblank/recipes/ggo_fiveseven.json"
+hash = "da184702ef6c027a61e9a09b2c33b993d4414cade9576d519ae9aaebb6aa7e91"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/data/pointblank/recipes/ggo_hecate.json"
+hash = "443e921293ca410a6e59bc3d5ec11ea63e6b6933f3f1b73acaf69f688fe6300e"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/data/pointblank/recipes/ggo_pistolrail.json"
+hash = "18c67fd2b7f2f4ab956e6187d55868150d0bc4e969d531f8b37ab8d3fc23ea0d"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/ext.json"
+hash = "0caf7d655d44e0c25105a617da199d22a5e0fa78fd9de3e5dc905548a3c2f9d6"
+
+[[files]]
+file = "pointblank/ggo-ext 1.0/pack.mcmeta"
+hash = "3209336f82ddc0bd56c765737dfc7e99aad0f3ce58fe54211bed3441ce81789b"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/animations/item/hl_coltpython.animation.json"
+hash = "7c186454e47389ace8fc0ada2047f164e8bb61c879f2d18825a5cf2d8695a4dc"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/animations/item/hl_mp5.animation.json"
+hash = "c63c002915cd3c4a79b0368b796e33b306e16955bfff28bb9ccb7e7e10c2366f"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/animations/item/hl_mp7.animation.json"
+hash = "7d436f430b2631518028395a5d4d235cb17f96df3965fa0b48ecc9562630339d"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/animations/item/hl_spas12.animation.json"
+hash = "b6597a954c6077bf9e70becdaa3e0277ca979e5f0ba256641633415008b75b76"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/effects/hl_trail.json"
+hash = "907f3b57bd1625f712b33fceaf027adfbc6d81ec7526da6b07727fa3448e28f5"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_coltpython.geo.json"
+hash = "9bc9c5d389f80efa2677e54ce0fd356272bfacb57d9d5d9b9187cff9c012daf2"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_mp5.geo.json"
+hash = "edaa5a1be3ea4270c447f3d8cc122601dc217e903d66cbe64d0ce1fdadc8ad58"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_mp7.geo.json"
+hash = "44d80e70f4390ce49ebeb663ecced8f0c5159b35383568a6061c1c00bb0f8e91"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_omegasight.geo.json"
+hash = "13ce98c2e0ef94a276eeb13decb53c598ecf988d0af1e3482adf7123cf330f6d"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_pythonlaser.geo.json"
+hash = "3ef3d4c8c969d02579a00d6226bcda9631308f93f0bed5374591af271ff4db7d"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_resistancescope.geo.json"
+hash = "ab15bb28210ccf638957796e7ab7210d8483d2a38221e7cbd3c14974763fe76d"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/geo/item/hl_spas12.geo.json"
+hash = "041e5d1106d815c9c76c55995ae68f08942595786a2d86dc6acc58a3a8586fcb"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_coltpython.json"
+hash = "e7253e8e914f8d088d02b150a09d589b6b388370484110b19c80b6c0df0953de"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_mp5.json"
+hash = "ed0ef74898b0762e43a6afc915e1d563e237defb20697ecfcd096c2f2ab9ce96"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_mp7.json"
+hash = "7bae7ce4ba1832591e88c78cd15a042584cee67f9310f6843262938322b7747a"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_omegasight.json"
+hash = "6e581ecd414dbe1e756c3ef31321fa64090856cb34a8ea268d606609b2d8b771"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_pythonlaser.json"
+hash = "6d7880490cf9a46310a5442d9127113e6c438846ecc4975204f564fdf3412937"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_resistancescope.json"
+hash = "16d0c82bd2f8c2bdd80c75d5bbf79c491656d988088ea2d12ddaacb3d7156f56"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/items/hl_spas12.json"
+hash = "727ff27fc1e5d778a46153d62632c88947889b9c00d7683a927cf78213405b36"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/lang/en_us.json"
+hash = "b42ea0801f09dccc2324852838a5e602bcb7e58e024e65a71073d00a03479a9f"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_coltpython.json"
+hash = "deab1fda7de349a7e983a6343302c8f7df277570848f34da4168bc05c5e4c6b7"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_mp5.json"
+hash = "993ab3d762323746d3c8527d956fe70060ca2ea0670dfa6ce4ac1ce0cf8ae5f3"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_mp7.json"
+hash = "66d8430c9b169aba625a6d8f39fc351b1c5b17eb7ade47c0c4109aaf66ed1cfd"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_omegasight.json"
+hash = "edcd40bc811de53266bf1c735791445015b65db5b2f3391adf2bcfc7503ac3bf"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_pythonlaser.json"
+hash = "8e4625fe29dd4320105d0be714242f28eac5c0056542f98734e81127c0fe3af5"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_resistancescope.json"
+hash = "0c12b51d8407df88889bdb6756bd90b113dc0cb5fdaa4da592a960812f59ffc1"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/models/item/hl_spas12.json"
+hash = "d3c106baf5324db4d079c7067c6f5d6fe768bfa6dc8870829e2a85960e8eb932"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds.json"
+hash = "bfc6ba4576c37c08d38d9a9bf4c5a49031aa9c63b89785ab85a94972f23e5e0b"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_coltpython.ogg"
+hash = "7945b58202dd93e251aaf16fa6c479b378852fa2f43c08b900038c58d801cedb"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_draw.ogg"
+hash = "ff8a525b71dc5d5515b1c3913aa6ec60d09970dae1ce9a8ef7794d3c45ef6fb0"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5.ogg"
+hash = "6cce844782bcf135befe556a2fa019923fabc95da6db57aab3bb1abed6143d25"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5actionback.ogg"
+hash = "5236e31baefa6337c4147b605bf966304150d5867846c63eb3c27030885bddbe"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5actionforward.ogg"
+hash = "1ac910bd936634b242fc8979c9822c0fd19fae181af02173f35ff347929576bf"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5close.ogg"
+hash = "1cb1dc331653c4cdb7ebb845c6a46ca6996d1a8781b7da0a49b3a80889a475f0"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5magin.ogg"
+hash = "c80cc5519fddf6fea432e6e386854e97d47bfbfe378482f4ae969ced29f1ddc7"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5magout.ogg"
+hash = "7568cc1154566d803707e78b800bc3505e7f482d3a1850da260f2fa8e84f7a1b"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5open.ogg"
+hash = "82061231ef62799c137e1b15d6dd57a7856c1c76219a0b542ea19a4ca478f888"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5silenced.ogg"
+hash = "3e8c1717fd360ffb39dbf8062ce90b596b67290285cd996b9fcbc11bcfe9b2c4"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5stockback.ogg"
+hash = "e5ff09785877c6238a23006d0e047c787de035363cae2d9258814ce63da26cb2"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp5stockforward.ogg"
+hash = "1c2d56c0fa3955b84e7b60d517bcb06ff7966221251c28beebad5ef570488fbb"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp7.ogg"
+hash = "8f0363f196636cf99b322779f45665f084e86bb6989986ae8207e562acd883b1"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp7magin.ogg"
+hash = "c6abd6e79a4242a90d3a47037d326b540b6f1918c8e503dc57fc976a4899d7e2"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp7magout.ogg"
+hash = "e597809d54dee0182a9bcf93e0a82a6449a65851dc5a0478a856113f34dfaab9"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_mp7press.ogg"
+hash = "1a53853c9e307b683259bbf5c35b52d7fb1aefce4cd74d30759e0abc3d5324da"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonbulletsin.ogg"
+hash = "9afc3e5c04889568d8daf506a5aff9bb2c26a7611ac935f608476d1a432cd9ab"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonbulletsout.ogg"
+hash = "e1638644ae6c2d67989745313bb04d3161624d6eb4e1055f9da0c5f389049b5b"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonclick1.ogg"
+hash = "bb1eb3b0baf8d113dbb690822958376fa7d63b6a6e304cfeba5c34330b799ad9"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonclick2.ogg"
+hash = "8d3328092b3d30db40580c79ac10fe473d2ce24b37da36067a97ed12824ed367"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonclose.ogg"
+hash = "d54592a8574f7ccc9d1abbd1582497e415dc4365e9c98fab61cee2250c01947f"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonopen.ogg"
+hash = "e0f7747a08d1a71a445faf57d74a2f63332c604614ebb7462a08d75fa70969bd"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_pythonspin.ogg"
+hash = "96a6414425b62354811c4b0474a357ea96491208dc5f8d13c9037b8e411e4f62"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_slideback.ogg"
+hash = "8631a58ceedd58a2d0b99a2eb8bb98eed7ab099b4259dd1388a50ff8161c64b7"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_slideforward.ogg"
+hash = "fb64023246acf735b60edb266b425afd3ba2cdbecad23bf189bc34305ba04b8f"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12.ogg"
+hash = "038f669af711f4a15a8a104f0dae8602a03bbbf75bc05737ba6613912c1aaca5"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12_altpump1.ogg"
+hash = "7e6c480a58e2fcb11343d40cabd979473755d11e824e3eb4c3814691e7d938fb"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12_altpump2.ogg"
+hash = "98c8ba5bbf99de3f57d0df5946f1b8c8802b118f10e2f7d6941d0bd0a4da0518"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12_open.ogg"
+hash = "6211975ac9d9900d8c0a7f82db0e033c10e8d9b5a9be1e2f6d2844f2564bd9c0"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12_pump1.ogg"
+hash = "3878c33b75d48dc6abfb05ad0f15154f2e72688cf5a5a27c8ee155c7a716f710"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12_pump2.ogg"
+hash = "85ad2a4d0b4c842e8452b3d9185df1e4a6628fee0f75edafcddcd7c46cb1be34"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_spas12alt.ogg"
+hash = "57f4c03213fc0dbba935ec849e1424342e939b13e97eee3a0bc0e6da69b3cb09"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_stringback.ogg"
+hash = "d6ee3ecce3c2ddb542b567f4139c4ed683f6a19f6c839c93b0ff8700e280ef71"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/sounds/hl_switch.ogg"
+hash = "09f063c55ccf1833c0b713e80a57e0a11e72fe1c39b78dd02f9a740125ed8ddb"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/effect/hl_laser.png"
+hash = "3de94cb7fa73e39a9a1e83adfb657d95e1ba4b1dcfecef2c02e219c4a846ea8a"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/effect/hl_laserdot.png"
+hash = "975cf42dc40f992f4f490f5485d7befb85b0c16af7c763e66021c60c794eaa0e"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_coltpython.icon.png"
+hash = "f8433ca07e9ad20dd6a367380cd7c561a19556ec391257930df218319cbfb145"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_coltpython.png"
+hash = "37ed6426a34f5098a2259afebd889146a5e1df450c003b001688d230af125c4f"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_mp5.icon.png"
+hash = "985466eca3c0708817790ccdeee9f24552c1ea38c28c8f77b41f9ae46fe592a8"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_mp5.png"
+hash = "777d519e8365bfc7f0c204dcb527b9459cf5e9b28a7afd7711aed01f9f1eaff3"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_mp7.icon.png"
+hash = "f50cee97670c58babe120651fe9bf7f7ddf3dbd1289f25d3d5cf2b1ed2839412"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_mp7.png"
+hash = "04128c0a2ccf473357ecab4db9dc3197c0ad6797c9c047eacf1377328b8bc9a3"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_omegareticle.png"
+hash = "5e1db71d15be5c66d8a70c84cbb47fa4693f22331a0fee428217837e9e224721"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_omegasight.png"
+hash = "242ef8de786f5bdc77cca8e955d6927e7ed1ef27e8f075ef6f9bb3a9b2349d94"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_pythonlaser.png"
+hash = "8b49324545ed5ab8e1e61802706dd05015289658939362c4625bcca2c1cb5791"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_resistancescope.png"
+hash = "a1e96a929e692e2cb88a663c216c5d70f1cd29aa45318928d731870272a39935"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_reticle.png"
+hash = "783fc80242a1ca0028900422de46aef02cd0eb116e1a5307b70a0695c04ef99b"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_spas12.icon.png"
+hash = "20ae97c77cea095585e003d570b6b5aeacdea9e62042450d423b30dc69f1f467"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/assets/pointblank/textures/item/hl_spas12.png"
+hash = "2dc66d5d1dd6b3bf8e905f196863c94f3788254aeb4adec6519cab59bcabf413"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/ext.json"
+hash = "8cc71b52bc99322246beb8bd3fa1f178fb5b91f74c2a36084b54038d3203f7e1"
+
+[[files]]
+file = "pointblank/halflife-ext 0.7/pack.mcmeta"
+hash = "e93dda27f9234ae23161240026e84df2d7735bb6600828f35ea2176e2d6fa254"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/animations/item/pbext_akm.animation.json"
+hash = "4c97ea6eea83dea2b132987057f01bfc0ee62584734d935febddcfe8307a633f"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/animations/item/pbext_akm74s.animation.json"
+hash = "e7808420266e3233451a5ce815608bc2720d4cfb55bcba114a3c380687da2001"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/animations/item/pbext_mk2.animation.json"
+hash = "58de54715bd97137e84dd4115b4ca580e9ac905c8acf83a06b025c5ba6f184c1"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/animations/item/pbext_pkm.animation.json"
+hash = "4c8c5f787a96edd57c522e3393c75125f97e2e765f9f60fb19d8c6f06f98a48a"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/geo/item/pbext_akm.geo.json"
+hash = "e10bfe516f585b4c3857cb5906d876138fd15846a89fadc5e8ade61d9a2895c3"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/geo/item/pbext_akm74s.geo.json"
+hash = "2f7264dff2d3e547ff6ce23df6932f5800c41df607366697dea9691aa2affada"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/geo/item/pbext_mk2.geo.json"
+hash = "590d8dbbd6b88e48d2f9d2e7033df1cd2f4e3770c6f48f6e2d2794fd96d59be6"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/geo/item/pbext_pkm.geo.json"
+hash = "dfb91b1145e7ab8f029387b7ac8ca1a211e418ad5db7e7e499b92fff56dcf729"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/items/pbext_akm.json"
+hash = "978681c9915c1bbb5e1b083ce1ef4edab2473905ccaa7704e2c541f4917f6442"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/items/pbext_akm74s.json"
+hash = "ad7c071fc7a7890b8b0f7affc481c8827cf01d5659d358d68700715c32de56f8"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/items/pbext_mk2.json"
+hash = "98652c657508a62f902fca29016db6e29383b503247593c8960fe25319ae3501"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/items/pbext_pkm.json"
+hash = "a406e73ba600b6c6c8ba060969a5a2c6b61c72032daf13f61eeda794b2699a69"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/lang/en_us.json"
+hash = "c5c32a352fbefcb5e9116a0f10ee74700bf4774d9cb0ff3a64827edd51aa36ab"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/models/item/pbext_akm.json"
+hash = "7b464128a55faf0262c4c9dcdcebf54619fdc3ce9049194cdb2f4f921eeb3c71"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/models/item/pbext_akm74s.json"
+hash = "61248a4fa9c9b6654d5de649fde07a19153a6238c1430b6bdd40183a8ad8e2bf"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/models/item/pbext_mk2.json"
+hash = "ddb9afe74a2b0de693701cb86509261cebc22c6fd65e1e30a411aea09eb4146f"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/models/item/pbext_pkm.json"
+hash = "29abe433af1e592537ee90eeddaa31311d1ae377d712e4a34c7cbc6fdd6c95af"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds.json"
+hash = "eade6ee671d19f3b4734c25b27b3ebcfe4a6c0a8409c70e8bd81ed0610b5ba81"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_akm.ogg"
+hash = "3a4c55f9e3972c4290cdb52037c98d93cfbe04dcdfaff67e0b807e5048a2e4a3"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_akm74s.ogg"
+hash = "3b668b66d70bc2442e57ef6066cab510a20db1d4c2b76c218fdcd8e3832f6e54"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2.ogg"
+hash = "1396259fcf8289b3aeb2c2d9eb1748575e092e37472d700007055087e5e8aa81"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2_chamberinsert.ogg"
+hash = "2785d4d4b696453f43feab43c03095e86a0bd529d191f02788c0763d48dd531c"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2_insert.ogg"
+hash = "c8ae3a771f2a0c1ac138bbb9b1feef932aa05fa58c8f74bb35515e4262fffb8a"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2_leverclose.ogg"
+hash = "090ab6646688a8c160bbe7078b6feb2d05f750fadaab260a66b8594627d213ad"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2_leveropen.ogg"
+hash = "d59e416711eedb9c5910947091cb89b17dfd3a9e14af0f03080bba7207ffc1f5"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_mk2_silenced.ogg"
+hash = "d9a0549c235c0412b707fe6b37f5add3166785551c32620a2426507db7bfa088"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_pkm.ogg"
+hash = "78112e894dacf46ae32fbf619889fa1cf2f5c38ce83ac89dad81b53d15ac453f"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_pkmsilenced.ogg"
+hash = "4a1ed28d4136041618daa66e4a54f5af929fed232648a847a1cd6b60c9604c9b"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/sounds/pbext_switch.ogg"
+hash = "09f063c55ccf1833c0b713e80a57e0a11e72fe1c39b78dd02f9a740125ed8ddb"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_akm.icon.png"
+hash = "248929b451b01291a9718af696bd02c9dcf2682b4ed6a21158bf44f8795bd830"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_akm.png"
+hash = "04e674d976dcb9067baa027a277f7a176f4825cfb64781be0875d7857ff9e628"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_akm74s.icon.png"
+hash = "f6512e4a3c7ce8e491a6f0a6ee45c6a078921f63128cb087a1369c3d15037b69"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_akm74s.png"
+hash = "6866cfe26050775c63ca59bde85786de022759cefb250bda2847669dcbe184c9"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_mk2.icon.png"
+hash = "77c681b17c735af47e1231fa6e2b5f2d4a4fc510b4e47c258a1b56e52e1f843c"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_mk2.png"
+hash = "ddc21fd1d6ec7347807cdf312087830fee5959ac74f6e8830b5b450ccd7813a8"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_pkm.icon.png"
+hash = "488a26c7caea4b4d30ea41d92f0817ff91778c96977e258e8d092f8b34f7d69b"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/assets/pointblank/textures/item/pbext_pkm.png"
+hash = "6f9d94721773dd34d828a3b9c9d977704538f67e32398098c1e9bbd3be488345"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/data/pointblank/recipes/pbext_akm.json"
+hash = "05c8f36086f9e0ded6e04d87fe05debc7b55dccdcbfe7676431c715c0884d4f1"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/data/pointblank/recipes/pbext_akm74s.json"
+hash = "2892b01cbdc9163d7feba2df220266da5bcfa69c2c9afd0accdae7fb2b8be10c"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/data/pointblank/recipes/pbext_mk2.json"
+hash = "e36fba379e309761b78f0fb3757e0d3d1ca74dcf69154836291093be362a5fae"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/data/pointblank/recipes/pbext_pkm.json"
+hash = "76e425f769a60ef9032af96a68b218758df8b2938a0da598cc7f2aac62b6638f"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/ext.json"
+hash = "08467c58077dea4256d39da92a4a638bfb32ba03e6abea2e1da062e507262b68"
+
+[[files]]
+file = "pointblank/pbext-ext 1.0/pack.mcmeta"
+hash = "4c90642eaeb9a830f4fb8d615a541300e45136e497e38e8375a0007636f6f815"
 
 [[files]]
 file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/blaze_cakes.json"
@@ -2819,6 +4379,10 @@ file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/joke_sidearm.json"
 hash = "aaafbc2aeac7f92096b11ef0af1da2b997d8582dad228446e91bcd66ff3ca70a"
 
 [[files]]
+file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/looting_dimension.disabled"
+hash = "cf82d4ea8687a1babf5f682459fc95da3939e8168068c28a795a4f7038a11749"
+
+[[files]]
 file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/looting_dimension.json"
 hash = "cf82d4ea8687a1babf5f682459fc95da3939e8168068c28a795a4f7038a11749"
 
@@ -2827,12 +4391,16 @@ file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/low_on_money.json"
 hash = "58324e5ee0e5edfea104f0c032e1bc1ed498af24e5f1d21aa352a102e56a2d59"
 
 [[files]]
+file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/low_on_money_2.disabled"
+hash = "4ae328717befbae0418a094bb7ac76aaf887e78fb97b500b7a520b00839d31d6"
+
+[[files]]
 file = "resourcepacks/CNMCResourcePack/assets/cnmc/tips/low_on_money_2.json"
 hash = "4ae328717befbae0418a094bb7ac76aaf887e78fb97b500b7a520b00839d31d6"
 
 [[files]]
 file = "resourcepacks/CNMCResourcePack/assets/minecraft/texts/splashes.txt"
-hash = "893cde8628272fba112350f38f088917f567defcfebebf55bf29dffe925736d2"
+hash = "7b8a85f296a5b72dbf8a676a5bb9e185436556720dc806e02d7480db75142c6e"
 
 [[files]]
 file = "resourcepacks/CNMCResourcePack/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -2873,8 +4441,3 @@ hash = "57d38d4a5356ba766582381084d7d50e397aa27ebf01c7488cdd144926f80c81"
 [[files]]
 file = "resourcepacks/CNMCResourcePack/pack.png"
 hash = "8efecbd5e438b4baed1d89f8e752d8a7e60f375a55f9dd0c515d26bb77ae38ed"
-
-[[files]]
-file = "saves/lesraisins-csgo-inferno.pw.toml"
-hash = "68929e7635ef3ccefbe52b3a650a43167951c60e70578589f55e97427b7580ab"
-metafile = true

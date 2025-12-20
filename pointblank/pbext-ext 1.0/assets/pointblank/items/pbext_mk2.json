@@ -1,0 +1,120 @@
+{
+  "name": "pbext_mk2",
+  "type": "Gun",
+  "maxAmmoCapacity": 6,
+  "maxAmmoPerReloadIteration": 1,
+  "compatibleAmmo": [
+    "ammocreative",
+    "ammo762x51"
+  ],
+  "damage": 11,
+  "fireSound": "pbext_mk2",
+  "rpm": 160,
+  "fireModes": [
+    "SINGLE"
+  ],
+  "drawCooldownDuration": 820,
+  "gunRecoilInitialAmplitude": 0.8,
+  "shakeRecoilAmplitude": 0.5,
+  "shakeRecoilSpeed": 3.5,
+  "viewRecoilAmplitude": 9,
+  "inspectCooldownDuration": 3870,
+  "compatibleAttachmentGroups": [
+    "rf_suppressors",
+    "cantedrail",
+    "ar_sightsandscopes",
+    "underbarrel"
+  ],
+  "compatibleAttachments": [
+    "cantedrail"
+  ],
+  "features": [
+    {
+      "type": "Sound",
+      "fireSounds": [
+        {
+          "sound": "pbext_mk2_silenced",
+          "volume": 1,
+          "condition": {
+            "hasAttachmentGroup": "rf_suppressors"
+          }
+        }
+      ]
+    },
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "upperrail",
+          "visible": true,
+          "condition": {
+            "hasAttachmentGroup": "m16_sightsandscopes"
+          }
+        },
+        {
+          "name": "tacguard",
+          "visible": true,
+          "condition": {
+            "hasAttachmentGroup": "underbarrel"
+          }
+        },
+        {
+          "name": "guard",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "underbarrel"
+          }
+        },
+        {
+          "name": "ironsight",
+          "visible": false,
+          "condition": {
+            "hasAttachmentGroup": "m16_sightsandscopes"
+          }
+        }
+      ]
+    },
+    {
+      "type": "Aiming",
+      "zoom": 0.25,
+      "condition": {
+        "doesNotHaveAttachmentGroup": "ar_sightsandscopes"
+      }
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "PREPARING",
+      "duration": 450,
+      "animation": "animation.model.prepare"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex == 0",
+      "duration": 1230,
+      "animation": "animation.model.loadchamber"
+    },
+    {
+      "phase": "RELOADING",
+      "condition": "reloadIterationIndex > 0",
+      "duration": 520,
+      "animation": "animation.model.load"
+    },
+    {
+      "phase": "COMPLETETING",
+      "condition": "reloadIterationIndex >= 0",
+      "duration": 720,
+      "animation": "animation.model.finish"
+    }
+  ],
+  "effects": [
+    {
+      "phase": "firing",
+      "name": "muzzle_flash_big"
+    },
+    {
+      "phase": "hit_scan_acquired",
+      "name": "tracer"
+    }
+  ]
+}

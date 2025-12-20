@@ -1,0 +1,7 @@
+{
+  "tip": {
+    "text": "BEWARE: Keep inventory is disabled in the looting dimension. Take caution when you encounter other players there.",
+    "bold": true,
+    "color": "red"
+  }
+}

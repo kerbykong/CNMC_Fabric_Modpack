@@ -6,3 +6,5 @@
 	transformerPresets = []
 [clipboard]
 	collections = []
+[builder]
+	reservedToolDurability = 1
